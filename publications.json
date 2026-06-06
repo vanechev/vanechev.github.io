@@ -1,0 +1,1784 @@
+[
+  {
+    "citekey": "Milesi2026",
+    "title": "From comic panels to clinical practice: data comics as a learning analytics tool in nursing simulation",
+    "authorsHtml": "Milesi, M. E., Alfredo, R., <strong>Echeverria, V.</strong>, Yan, L., Zhao, L., Jin, Y., Gašević, D., Tsai, Y.-S., &amp; Martinez-Maldonado, R.",
+    "venue": "Smart Learning Environments, 13(1) · 2026",
+    "year": "2026",
+    "type": "journal",
+    "topics": [
+      "healthcare",
+      "datastory"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1186/s40561-026-00434-4",
+    "bibtex": "@ARTICLE{Milesi2026,\n  author = {Milesi, Mikaela Elizabeth and Alfredo, Riordan and Echeverria, Vanessa and Yan, Lixiang and Zhao, Linxuan and Jin, Yueqiao and Gašević, Dragan and Tsai, Yi-Shan and Martinez-Maldonado, Roberto},\n  title = {From comic panels to clinical practice: data comics as a learning analytics tool in nursing simulation},\n  year = {2026},\n  journal = {Smart Learning Environments},\n  volume = {13},\n  number = {1},\n  doi = {10.1186/s40561-026-00434-4},\n  publisher = {Springer}\n}"
+  },
+  {
+    "citekey": "Fernandez-Nieto2026",
+    "title": "Capturing and sharing know-how through visual process representations: a human-centred approach to teacher workflows",
+    "authorsHtml": "Fernandez-Nieto, G. M., <strong>Echeverria, V.</strong>, Li, Y., Tsai, Y.-S., Sha, L., Chen, G., Gašević, D., &amp; Swiecki, Z.",
+    "venue": "Behaviour & Information Technology · 2026",
+    "year": "2026",
+    "type": "journal",
+    "topics": [
+      "codesign"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1080/0144929X.2026.2636694",
+    "bibtex": "@ARTICLE{Fernandez-Nieto2026,\n  author = {Fernandez-Nieto, Gloria M. and Echeverria, Vanessa and Li, Yuheng and Tsai, Yi-Shan and Sha, Lele and Chen, Guanliang and Gašević, Dragan and Swiecki, Zachari},\n  title = {Capturing and sharing know-how through visual process representations: a human-Centred approach to teacher workflows},\n  year = {2026},\n  journal = {Behaviour and Information Technology},\n  doi = {10.1080/0144929X.2026.2636694},\n  publisher = {Taylor and Francis Ltd.}\n}"
+  },
+  {
+    "citekey": "Zhao2026",
+    "title": "Automated multimodal visual analytics of social and epistemic dimensions in team communication for reflective practice in healthcare simulation",
+    "authorsHtml": "Zhao, L., <strong>Echeverria, V.</strong>, Gašević, D., Yan, L., Alfredo, R., Li, X., &amp; Martinez-Maldonado, R.",
+    "venue": "Computers and Education, 252 · 2026",
+    "year": "2026",
+    "type": "journal",
+    "topics": [
+      "healthcare",
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1016/j.compedu.2026.105655",
+    "bibtex": "@ARTICLE{Zhao2026,\n  author = {Zhao, Linxuan and Echeverria, Vanessa and Gašević, Dragan and Yan, Lixiang and Alfredo, Riordan and Li, Xinyu and Martinez-Maldonado, Roberto},\n  title = {Automated multimodal visual analytics of social and epistemic dimensions in team communication for reflective practice in healthcare simulation},\n  year = {2026},\n  journal = {Computers and Education},\n  volume = {252},\n  doi = {10.1016/j.compedu.2026.105655},\n  publisher = {Elsevier Ltd}\n}"
+  },
+  {
+    "citekey": "Samaraweera2026926",
+    "title": "From Formal Learning to Professional Practice: Automated LLM-based Coding and Visualisation of Team Dialogue in in-situ Healthcare Simulation",
+    "authorsHtml": "Samaraweera, S., Zhao, L., <strong>Echeverria, V.</strong>, Alfredo, R., Chen, G., Davis, J., Leonny, S., Sevenhuysen, S., Connell, C., Gasevic, D., Martinez-Maldonado, R., &amp; Dharmaratne, A.",
+    "venue": "16th International Learning Analytics and Knowledge Conference, LAK 2026, pp. 926–932 · 2026",
+    "year": "2026",
+    "type": "conference",
+    "topics": [
+      "healthcare",
+      "human-ai"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "LAK"
+      }
+    ],
+    "doi": "10.1145/3785022.3785098",
+    "bibtex": "@CONFERENCE{Samaraweera2026926,\n  author = {Samaraweera, Sachini and Zhao, Linxuan and Echeverria, Vanessa and Alfredo, Riordan and Chen, Guanliang and Davis, Joy and Leonny, Sheravika and Sevenhuysen, Samantha and Connell, Clifford and Gasevic, Dragan and Martinez-Maldonado, Roberto and Dharmaratne, Anuja},\n  title = {From Formal Learning to Professional Practice: Automated LLM-based Coding and Visualisation of Team Dialogue in in-situ Healthcare Simulation},\n  year = {2026},\n  journal = {16th International Learning Analytics and Knowledge Conference, LAK 2026},\n  pages = {926-932},\n  doi = {10.1145/3785022.3785098},\n  publisher = {Association for Computing Machinery, Inc}\n}"
+  },
+  {
+    "citekey": "Falhs2026120",
+    "title": "How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment",
+    "authorsHtml": "Falhs, A.-C., Borchers, C., <strong>Echeverria, V.</strong>, Yang, K., Rummel, N., &amp; Aleven, V.",
+    "venue": "Lecture Notes in Computer Science, 16064 LNCS, pp. 120–125 · 2026",
+    "year": "2026",
+    "type": "conference",
+    "topics": [
+      "codesign",
+      "human-ai"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "ECTEL"
+      }
+    ],
+    "doi": "10.1007/978-3-032-03873-9_11",
+    "bibtex": "@ARTICLE{Falhs2026120,\n  author = {Falhs, Ann-Christin and Borchers, Conrad and Echeverria, Vanessa and Yang, Kexin and Rummel, Nikol and Aleven, Vincent},\n  title = {How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment},\n  year = {2026},\n  journal = {Lecture Notes in Computer Science},\n  volume = {16064 LNCS},\n  pages = {120-125},\n  doi = {10.1007/978-3-032-03873-9_11},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Echeverria2025",
+    "title": "TeamVision: An AI-powered Learning Analytics System for Supporting Reflection in Team-based Healthcare Simulation",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Zhao, L., Alfredo, R., Milesi, M. E., Jin, Y., Abel, S., et al.",
+    "venue": "CHI Conference on Human Factors in Computing Systems · 2025",
+    "year": "2025",
+    "type": "conference",
+    "topics": [
+      "healthcare",
+      "multimodal",
+      "dashboard"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "CHI"
+      }
+    ],
+    "doi": "10.1145/3706468.3706476",
+    "bibtex": "@CONFERENCE{Echeverria2025TeamVision,\n  author = {Echeverria, Vanessa and Zhao, Linxuan and Alfredo, Riordan and Milesi, Mikaela E. and Jin, Yueqiao and Abel, Sarah and others},\n  title = {TeamVision: An AI-powered Learning Analytics System for Supporting Reflection in Team-based Healthcare Simulation},\n  year = {2025},\n  journal = {Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems},\n  doi = {10.1145/3706468.3706476},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Milesi2025",
+    "title": "\"Piecing Data Connections Together Like a Puzzle\": Effects of Increasing Task Complexity on the Effectiveness of Data Storytelling Enhanced Visualisations",
+    "authorsHtml": "Milesi, M. E., Mejia-Domenzain, P., Brandl, L., <strong>Echeverria, V.</strong>, Jin, Y., Gasevic, D., Tsai, Y.-S., Käser, T., &amp; Martinez-Maldonado, R.",
+    "venue": "CHI Conference on Human Factors in Computing Systems · 2025",
+    "year": "2025",
+    "type": "conference",
+    "topics": [
+      "datastory"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "CHI"
+      }
+    ],
+    "doi": "10.1145/3706598.3714270",
+    "bibtex": "@CONFERENCE{Milesi2025,\n  author = {Milesi, Mikaela Elizabeth and Mejia-Domenzain, Paola and Brandl, Laura and Echeverria, Vanessa and Jin, Yueqiao and Gasevic, Dragan and Tsai, Yi-Shan and Käser, Tanja and Martinez-Maldonado, Roberto},\n  title = {\"Piecing Data Connections Together Like a Puzzle\": Effects of Increasing Task Complexity on the Effectiveness of Data Storytelling Enhanced Visualisations},\n  year = {2025},\n  journal = {Conference on Human Factors in Computing Systems - Proceedings},\n  doi = {10.1145/3706598.3714270},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Alfredo202558",
+    "title": "TeamTeachingViz: Benefits, Challenges, and Ethical Considerations of Using a Multimodal Analytics Dashboard to Support Team Teaching Reflection",
+    "authorsHtml": "Alfredo, R., Mejia-Domenzain, P., <strong>Echeverria, V.</strong>, Rahayu, D., Zhao, L., et al.",
+    "venue": "Proceedings of the 15th International Learning Analytics and Knowledge Conference · 2025",
+    "year": "2025",
+    "type": "conference",
+    "topics": [
+      "dashboard",
+      "multimodal",
+      "codesign"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "LAK"
+      }
+    ],
+    "doi": "10.1145/3706468.3706475",
+    "bibtex": "@CONFERENCE{Alfredo2025TeamTeachingViz,\n  author = {Alfredo, Riordan and Mejia-Domenzain, Paola and Echeverria, Vanessa and Rahayu, Dewa and Zhao, Linxuan and others},\n  title = {TeamTeachingViz: Benefits, Challenges, and Ethical Considerations of Using a Multimodal Analytics Dashboard to Support Team Teaching Reflection},\n  year = {2025},\n  journal = {Proceedings of the 15th International Learning Analytics and Knowledge Conference},\n  doi = {10.1145/3706468.3706475},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Alfredo2025",
+    "title": "Co-designing AI-powered learning analytics: bringing students and teachers together",
+    "authorsHtml": "Alfredo, R., Milesi, M., <strong>Echeverria, V.</strong>, Gašević, D., Buckingham Shum, S., Zhao, L., Yan, L., Jin, Y., Fan, J. X., Pammer-Schindler, V., Swiecki, Z., &amp; Martinez-Maldonado, R.",
+    "venue": "International Journal of Educational Technology in Higher Education, 22(1) · 2025",
+    "year": "2025",
+    "type": "journal",
+    "topics": [
+      "codesign",
+      "dashboard"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1186/s41239-025-00572-8",
+    "bibtex": "@ARTICLE{Alfredo2025,\n  author = {Alfredo, Riordan and Milesi, Mikaela and Echeverria, Vanessa and Gašević, Dragan and Buckingham Shum, Simon and Zhao, Linxuan and Yan, Lixiang and Jin, Yueqiao and Fan, Jie Xiang and Pammer-Schindler, Viktoria and Swiecki, Zachari and Martinez-Maldonado, Roberto},\n  title = {Co-designing AI-powered learning analytics: bringing students and teachers together},\n  year = {2025},\n  journal = {International Journal of Educational Technology in Higher Education},\n  volume = {22},\n  number = {1},\n  doi = {10.1186/s41239-025-00572-8},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Echeverria2025JCAL",
+    "title": "A learning analytics dashboard to support students' reflection on collaboration",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Nieto, G. F., Zhao, L., Palominos, E., Srivastava, N., Gašević, D., et al.",
+    "venue": "Journal of Computer Assisted Learning, 41(1), e13088 · 2025",
+    "year": "2025",
+    "type": "journal",
+    "topics": [
+      "dashboard",
+      "codesign"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1111/jcal.13088",
+    "bibtex": "@ARTICLE{Echeverria2025JCAL,\n  author = {Echeverria, Vanessa and Fernandez Nieto, Gloria and Zhao, Linxuan and Palominos, Elsa and Srivastava, Namrata and Gašević, Dragan and others},\n  title = {A learning analytics dashboard to support students' reflection on collaboration},\n  year = {2025},\n  journal = {Journal of Computer Assisted Learning},\n  volume = {41},\n  number = {1},\n  pages = {e13088},\n  doi = {10.1111/jcal.13088}\n}"
+  },
+  {
+    "citekey": "Yan20252421",
+    "title": "In Sync or Out of Sync? Understanding Stress and Learning Performance in Collaborative Healthcare Simulations through Physiological Synchrony and Arousal",
+    "authorsHtml": "Yan, L., Gašević, D., <strong>Echeverria, V.</strong>, Zhao, L., Jin, Y., Li, X., &amp; Martinez-Maldonado, R.",
+    "venue": "International Journal of Artificial Intelligence in Education, 35(4), 2421–2452 · 2025",
+    "year": "2025",
+    "type": "journal",
+    "topics": [
+      "healthcare",
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1007/s40593-025-00475-9",
+    "bibtex": "@ARTICLE{Yan20252421,\n  author = {Yan, Lixiang and Gašević, Dragan and Echeverria, Vanessa and Zhao, Linxuan and Jin, Yueqiao and Li, Xinyu and Martinez-Maldonado, Roberto},\n  title = {In Sync or Out of Sync? Understanding Stress and Learning Performance in Collaborative Healthcare Simulations through Physiological Synchrony and Arousal},\n  year = {2025},\n  journal = {International Journal of Artificial Intelligence in Education},\n  volume = {35},\n  number = {4},\n  pages = {2421-2452},\n  doi = {10.1007/s40593-025-00475-9},\n  publisher = {Springer}\n}"
+  },
+  {
+    "citekey": "Yan2025",
+    "title": "The effects of generative AI agents and scaffolding on enhancing students' comprehension of visual learning analytics",
+    "authorsHtml": "Yan, L., Martinez-Maldonado, R., Jin, Y., <strong>Echeverria, V.</strong>, Milesi, M., Fan, J., Zhao, L., Alfredo, R., Li, X., &amp; Gašević, D.",
+    "venue": "Computers and Education, 234 · 2025",
+    "year": "2025",
+    "type": "journal",
+    "topics": [
+      "dashboard",
+      "codesign"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1016/j.compedu.2025.105322",
+    "bibtex": "@ARTICLE{Yan2025,\n  author = {Yan, Lixiang and Martinez-Maldonado, Roberto and Jin, Yueqiao and Echeverria, Vanessa and Milesi, Mikaela and Fan, Jie and Zhao, Linxuan and Alfredo, Riordan and Li, Xinyu and Gašević, Dragan},\n  title = {The effects of generative AI agents and scaffolding on enhancing students' comprehension of visual learning analytics},\n  year = {2025},\n  journal = {Computers and Education},\n  volume = {234},\n  doi = {10.1016/j.compedu.2025.105322},\n  publisher = {Elsevier Ltd}\n}"
+  },
+  {
+    "citekey": "Jin2025",
+    "title": "Generative AI in higher education: A global perspective of institutional adoption policies and guidelines",
+    "authorsHtml": "Jin, Y., Yan, L., <strong>Echeverria, V.</strong>, Gašević, D., &amp; Martinez-Maldonado, R.",
+    "venue": "Computers and Education: Artificial Intelligence, 8 · 2025",
+    "year": "2025",
+    "type": "journal",
+    "topics": [
+      "ethics",
+      "human-ai"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1016/j.caeai.2024.100348",
+    "bibtex": "@ARTICLE{Jin2025,\n  author = {Jin, Yueqiao and Yan, Lixiang and Echeverria, Vanessa and Gašević, Dragan and Martinez-Maldonado, Roberto},\n  title = {Generative AI in higher education: A global perspective of institutional adoption policies and guidelines},\n  year = {2025},\n  journal = {Computers and Education: Artificial Intelligence},\n  volume = {8},\n  doi = {10.1016/j.caeai.2024.100348},\n  publisher = {Elsevier B.V.}\n}"
+  },
+  {
+    "citekey": "Pozdniakov2025367",
+    "title": "Investigating the Effect of Visualization Literacy and Guidance on Teachers' Dashboard Interpretation",
+    "authorsHtml": "Pozdniakov, S., Martinez-Maldonado, R., Tsai, Y.-S., <strong>Echeverria, V.</strong>, Swiecki, Z., &amp; Gasevic, D.",
+    "venue": "Journal of Learning Analytics, 1–25 · 2025",
+    "year": "2025",
+    "type": "journal",
+    "topics": [
+      "dashboard"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.18608/jla.2024.8471",
+    "bibtex": "@ARTICLE{Pozdniakov2025,\n  author = {Pozdniakov, Stanislav and Martinez-Maldonado, Roberto and Tsai, Yi-Shan and Echeverria, Vanessa and Swiecki, Zachari and Gasevic, Dragan},\n  title = {Investigating the Effect of Visualization Literacy and Guidance on Teachers' Dashboard Interpretation},\n  year = {2025},\n  journal = {Journal of Learning Analytics},\n  doi = {10.18608/jla.2024.8471}\n}"
+  },
+  {
+    "citekey": "Di Mitri2025292",
+    "title": "The Second International Workshop on Multimodal Artificial Intelligence in Education (MAIEd’25)",
+    "authorsHtml": "Di Mitri, D., Srivastava, N., Fernandez Nieto, G., <strong>Echeverria, V.</strong>, Cobos, R., Tudur Sadashiva, A., Spikol, D., Wong, K. Y. C., Zhou, Q., &amp; Cukurova, M.",
+    "venue": "Artificial Intelligence in Education, 292–299 · 2025",
+    "year": "2025",
+    "type": "workshop",
+    "topics": [
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "workshop",
+        "text": "Workshop organisation"
+      },
+      {
+        "style": "conference",
+        "text": "AIED"
+      }
+    ],
+    "doi": "10.1007/978-3-031-99267-4_38",
+    "bibtex": "@conference{Di Mitri2025292,\n  author = {Di Mitri, Daniele and Srivastava, Namrata and Fernandez Nieto, Gloria and Echeverria, Vanessa and Cobos, Ruth and Tudur Sadashiva, Ashwin and Spikol, Daniel and Wong, Kester Yew Chong and Zhou, Qi and Cukurova, Mutlu},\n  title = {The Second International Workshop on Multimodal Artificial Intelligence in Education (MAIEd’25)},\n  year = {2025},\n  booktitle = {Communications in Computer and Information Science},\n  volume = {2592 CCIS},\n  pages = {292 - 299},\n  doi = {10.1007/978-3-031-99267-4_38},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Jin2025579",
+    "title": "Chatting with a Learning Analytics Dashboard: The Role of Generative AI Literacy on Learner Interaction with Conventional and Scaffolding Chatbots",
+    "authorsHtml": "Jin, Y., Yang, K., Yan, L., <strong>Echeverria, V.</strong>, Zhao, L., Alfredo, R., Milesi, M., Fan, J. X., Li, X., Gasevic, D., &amp; Martinez-Maldonado, R.",
+    "venue": "15th International Conference on Learning Analytics and Knowledge, LAK 2025, 579–590 · 2025",
+    "year": "2025",
+    "type": "conference",
+    "topics": [
+      "dashboard",
+      "genai"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1145/3706468.3706545",
+    "bibtex": "@CONFERENCE{Jin2025579,\n  author = {Jin, Yueqiao and Yang, Kaixun and Yan, Lixiang and Echeverria, Vanessa and Zhao, Linxuan and Alfredo, Riordan and Milesi, Mikaela and Fan, Jie Xiang and Li, Xinyu and Gasevic, Dragan and Martinez-Maldonado, Roberto},\n  title = {Chatting with a Learning Analytics Dashboard: The Role of Generative AI Literacy on Learner Interaction with Conventional and Scaffolding Chatbots},\n  year = {2025},\n  journal = {15th International Conference on Learning Analytics and Knowledge, LAK 2025},\n  pages = {579 - 590},\n  doi = {10.1145/3706468.3706545},\n  publisher = {Association for Computing Machinery, Inc}\n}"
+  },
+  {
+    "citekey": "Prieto2025950",
+    "title": "VALA/AID: A Method for Rapid, Participatory Value-sensitive Learning Analytics and Artificial Intelligence Design",
+    "authorsHtml": "Prieto, L. P., Alfredo, R., Díaz-Chavarría, H. B., Martinez-Maldonado, R., &amp; <strong>Echeverría, V.</strong>",
+    "venue": "15th International Conference on Learning Analytics and Knowledge, LAK 2025, 950–956 · 2025",
+    "year": "2025",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "ECTEL"
+      }
+    ],
+    "doi": "10.1145/3706468.3706553",
+    "bibtex": "@CONFERENCE{Prieto2025950,\n  author = {Prieto, Luis P. and Alfredo, Riordan and Díaz-Chavarría, Henry Benjamín and Martinez-Maldonado, Roberto and Echeverría, Vanessa},\n  title = {VALA/AID: A Method for Rapid, Participatory Value-sensitive Learning Analytics and Artificial Intelligence Design},\n  year = {2025},\n  journal = {15th International Conference on Learning Analytics and Knowledge, LAK 2025},\n  pages = {950 - 956},\n  doi = {10.1145/3706468.3706553},\n  publisher = {Association for Computing Machinery, Inc}\n}"
+  },
+  {
+    "citekey": "Yan202570",
+    "title": "From Complexity to Parsimony: Integrating Latent Class Analysis to Uncover Multimodal Learning Patterns in Collaborative Learning",
+    "authorsHtml": "Yan, L., Gasevic, D., <strong>Echeverria, V.</strong>, Jin, Y., Zhao, L., &amp; Martinez-Maldonado, R.",
+    "venue": "15th International Conference on Learning Analytics and Knowledge, LAK 2025, 70–81 · 2025",
+    "year": "2025",
+    "type": "conference",
+    "topics": [
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1145/3706468.3706476",
+    "bibtex": "@CONFERENCE{Yan202570,\n  author = {Yan, Lixiang and Gasevic, Dragan and Echeverria, Vanessa and Jin, Yueqiao and Zhao, Linxuan and Martinez-Maldonado, Roberto},\n  title = {From Complexity to Parsimony: Integrating Latent Class Analysis to Uncover Multimodal Learning Patterns in Collaborative Learning},\n  year = {2025},\n  journal = {15th International Conference on Learning Analytics and Knowledge, LAK 2025},\n  pages = {70 - 81},\n  doi = {10.1145/3706468.3706476},\n  publisher = {Association for Computing Machinery, Inc}\n}"
+  },
+  {
+    "citekey": "Echeverria2024112",
+    "title": "TeamSlides: a Multimodal Teamwork Analytics Dashboard for Teacher-guided Reflection in a Physical Learning Space",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Yan, L., Zhao, L., Abel, S., Alfredo, R., Dix, S., et al.",
+    "venue": "14th International Learning Analytics and Knowledge Conference · 2024",
+    "year": "2024",
+    "type": "conference",
+    "topics": [
+      "healthcare",
+      "multimodal",
+      "dashboard"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "LAK"
+      }
+    ],
+    "award": "🏅 Runner-up Best Paper",
+    "doi": "10.1145/3636555.3636857",
+    "bibtex": "@CONFERENCE{Echeverria2024112,\n  author = {Echeverria, Vanessa and Yan, Lixiang and Zhao, Linxuan and Abel, Sophie and Alfredo, Riordan and Dix, Samantha and Jaggard, Hollie and Wotherspoon, Rosie and Osborne, Abra and Buckingham Shum, Simon and Gasevic, Dragan and Martinez-Maldonado, Roberto},\n  title = {TeamSlides: a Multimodal Teamwork Analytics Dashboard for Teacher-guided Reflection in a Physical Learning Space},\n  year = {2024},\n  journal = {ACM International Conference Proceeding Series},\n  pages = {112 - 122},\n  doi = {10.1145/3636555.3636857},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Jin20246",
+    "title": "FATE in MMLA: A Student-Centred Exploration of Fairness, Accountability, Transparency, and Ethics in Multimodal Learning Analytics",
+    "authorsHtml": "Jin, Y., <strong>Echeverria, V.</strong>, Yan, L., Zhao, L., Alfredo, R., Tsai, Y.-S., Gašević, D., &amp; Martinez-Maldonado, R.",
+    "venue": "Journal of Learning Analytics, 11(3), 6–23 · 2024",
+    "year": "2024",
+    "type": "journal",
+    "topics": [
+      "multimodal",
+      "ethics"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.18608/jla.2024.8351",
+    "bibtex": "@ARTICLE{Jin20246,\n  author = {Jin, Yueqiao and Echeverria, Vanessa and Yan, Lixiang and Zhao, Linxuan and Alfredo, Riordan and Tsai, Yi-Shan and Gašević, Dragan and Martinez-Maldonado, Roberto},\n  title = {FATE in MMLA: A Student-Centred Exploration of Fairness, Accountability, Transparency, and Ethics in Multimodal Learning Analytics},\n  year = {2024},\n  journal = {Journal of Learning Analytics},\n  volume = {11},\n  number = {3},\n  pages = {6 - 23},\n  doi = {10.18608/jla.2024.8351},\n  publisher = {Society for Learning Analytics Research (SOLAR)}\n}"
+  },
+  {
+    "citekey": "Alfredo2024",
+    "title": "Human-centred learning analytics and AI in education: A systematic literature review",
+    "authorsHtml": "Alfredo, R., <strong>Echeverria, V.</strong>, Jin, Y., Yan, L., Swiecki, Z., Gašević, D., &amp; Martinez-Maldonado, R.",
+    "venue": "Computers and Education: Artificial Intelligence, 100215 · 2024",
+    "year": "2024",
+    "type": "journal",
+    "topics": [
+      "codesign"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1016/j.caeai.2024.100215",
+    "bibtex": "@ARTICLE{Alfredo2024,\n  author = {Alfredo, Riordan and Echeverria, Vanessa and Jin, Yueqiao and Yan, Lixiang and Swiecki, Zachari and Gašević, Dragan and Martinez-Maldonado, Roberto},\n  title = {Human-centred learning analytics and AI in education: A systematic literature review},\n  year = {2024},\n  journal = {Computers and Education: Artificial Intelligence},\n  volume = {6},\n  doi = {10.1016/j.caeai.2024.100215},\n  publisher = {Elsevier B.V.}\n}"
+  },
+  {
+    "citekey": "Yan20241900",
+    "title": "Evidence-based multimodal learning analytics for feedback and reflection in collaborative learning",
+    "authorsHtml": "Yan, L., <strong>Echeverria, V.</strong>, Jin, Y., Fernandez-Nieto, G., Zhao, L., Li, X., et al.",
+    "venue": "British Journal of Educational Technology, 55(5), 1900–1925 · 2024",
+    "year": "2024",
+    "type": "journal",
+    "topics": [
+      "multimodal",
+      "dashboard"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1111/bjet.13498",
+    "bibtex": "@ARTICLE{Yan20241900,\n  author = {Yan, Lixiang and Echeverria, Vanessa and Jin, Yueqiao and Fernandez-Nieto, Gloria and Zhao, Linxuan and Li, Xinyu and Alfredo, Riordan and Swiecki, Zachari and Gašević, Dragan and Martinez-Maldonado, Roberto},\n  title = {Evidence-based multimodal learning analytics for feedback and reflection in collaborative learning},\n  year = {2024},\n  journal = {British Journal of Educational Technology},\n  volume = {55},\n  number = {5},\n  pages = {1900 - 1925},\n  doi = {10.1111/bjet.13498},\n  publisher = {John Wiley and Sons Inc}\n}"
+  },
+  {
+    "citekey": "Alfredo202424",
+    "title": "SLADE: A Method for Designing Human-Centred Learning Analytics Systems",
+    "authorsHtml": "Alfredo, R., <strong>Echeverria, V.</strong>, Jin, Y., Swiecki, Z., Gašević, D., &amp; Martinez-Maldonado, R.",
+    "venue": "14th International Learning Analytics and Knowledge Conference, 24–34 · 2024",
+    "year": "2024",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "LAK"
+      }
+    ],
+    "doi": "10.1145/3636555.3636847",
+    "bibtex": "@CONFERENCE{Alfredo202424,\n  author = {Alfredo, Riordan and Echeverria, Vanessa and Jin, Yueqiao and Swiecki, Zachari and Gašević, Dragan and Martinez-Maldonado, Roberto},\n  title = {SLADE: A Method for Designing Human-Centred Learning Analytics Systems},\n  year = {2024},\n  journal = {ACM International Conference Proceeding Series},\n  pages = {24 - 34},\n  doi = {10.1145/3636555.3636847},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Alfredo202462",
+    "title": "Designing a Human-Centred Learning Analytics Dashboard In-Use",
+    "authorsHtml": "Alfredo, R., <strong>Echeverria, V.</strong>, Zhao, L., Lawrence, L., Fan, J. X., Yan, L., Li, X., Swiecki, Z., Gašević, D., &amp; Martinez-Maldonado, R.",
+    "venue": "Journal of Learning Analytics, 11(3), 62–81 · 2024",
+    "year": "2024",
+    "type": "journal",
+    "topics": [],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.18608/jla.2024.8487",
+    "bibtex": "@ARTICLE{Alfredo202462,\n  author = {Alfredo, Riordan and Echeverria, Vanessa and Zhao, Linxuan and Lawrence, Luettamae and Fan, Jie Xiang and Yan, Lixiang and Li, Xinyu and Swiecki, Zachari and Gašević, Dragan and Martinez-Maldonado, Roberto},\n  title = {Designing a Human-Centred Learning Analytics Dashboard In-Use},\n  year = {2024},\n  journal = {Journal of Learning Analytics},\n  volume = {11},\n  number = {3},\n  pages = {62 - 81},\n  doi = {10.18608/jla.2024.8487},\n  publisher = {Society for Learning Analytics Research (SOLAR)}\n}"
+  },
+  {
+    "citekey": "Fernandez-Nieto2024678",
+    "title": "Data Storytelling Editor: A Teacher-Centred Tool for Customising Learning Analytics Dashboard Narratives",
+    "authorsHtml": "Fernandez-Nieto, G. M., Martinez-Maldonado, R., <strong>Echeverria, V.</strong>, Kitto, K., Gašević, D., &amp; Buckingham Shum, S.",
+    "venue": "14th International Learning Analytics and Knowledge Conference, 678–689 · 2024",
+    "year": "2024",
+    "type": "conference",
+    "topics": [
+      "datastory"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1145/3636555.3636930",
+    "bibtex": "@CONFERENCE{Fernandez-Nieto2024678,\n  author = {Fernandez-Nieto, Gloria Milena and Martinez-Maldonado, Roberto and Echeverria, Vanessa and Kitto, Kirsty and Gašević, Dragan and Buckingham Shum, Simon},\n  title = {Data Storytelling Editor: A Teacher-Centred Tool for Customising Learning Analytics Dashboard Narratives},\n  year = {2024},\n  journal = {ACM International Conference Proceeding Series},\n  pages = {678 - 689},\n  doi = {10.1145/3636555.3636930},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Fernández-Nieto2024124",
+    "title": "YarnSense: Automated Data Storytelling for Multimodal Learning Analytics",
+    "authorsHtml": "Fernández-Nieto, G. M., <strong>Echeverria, V.</strong>, Martinez-Maldonado, R., &amp; Shum, S. B.",
+    "venue": "CEUR Workshop Proceedings, 3667, 124–138 · 2024",
+    "year": "2024",
+    "type": "workshop",
+    "topics": [
+      "datastory",
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "workshop",
+        "text": "Workshop paper"
+      }
+    ],
+    "bibtex": "@CONFERENCE{Fernández-Nieto2024124,\n  author = {Fernández-Nieto, Gloria Milena and Echeverria, Vanessa and Martinez-Maldonado, Roberto and Shum, Simon Buckingham},\n  title = {YarnSense: Automated Data Storytelling for Multimodal Learning Analytics},\n  year = {2024},\n  journal = {CEUR Workshop Proceedings},\n  volume = {3667},\n  pages = {124 - 138},\n  publisher = {CEUR-WS}\n}"
+  },
+  {
+    "citekey": "Lawrence2024823",
+    "title": "How teachers conceptualise shared control with an AI co-orchestration tool: A multiyear teacher-centred design process",
+    "authorsHtml": "Lawrence, L., <strong>Echeverria, V.</strong>, Yang, K., Aleven, V., &amp; Rummel, N.",
+    "venue": "British Journal of Educational Technology, 55(3), 823–844 · 2024",
+    "year": "2024",
+    "type": "journal",
+    "topics": [
+      "human-ai",
+      "codesign"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1111/bjet.13372",
+    "bibtex": "@ARTICLE{Lawrence2024823,\n  author = {Lawrence, LuEttaMae and Echeverria, Vanessa and Yang, Kexin and Aleven, Vincent and Rummel, Nikol},\n  title = {How teachers conceptualise shared control with an AI co-orchestration tool: A multiyear teacher-centred design process},\n  year = {2024},\n  journal = {British Journal of Educational Technology},\n  volume = {55},\n  number = {3},\n  pages = {823 - 844},\n  doi = {10.1111/bjet.13372},\n  publisher = {John Wiley and Sons Inc}\n}"
+  },
+  {
+    "citekey": "Milesi2024",
+    "title": "It's Really Enjoyable to See Me Solve the Problem like a Hero\": GenAI-enhanced Data Comics as a Learning Analytics Tool",
+    "authorsHtml": "Milesi, M. E., Alfredo, R., <strong>Echeverria, V.</strong>, Yan, L., Zhao, L., Tsai, Y.-S., &amp; Martinez-Maldonado, R.",
+    "venue": "CHI Conference on Human Factors in Computing Systems · 2024",
+    "year": "2024",
+    "type": "conference",
+    "topics": [
+      "datastory"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "CHI"
+      }
+    ],
+    "doi": "10.1145/3613905.3651111",
+    "bibtex": "@CONFERENCE{Milesi2024,\n  author = {Milesi, Mikaela E. and Alfredo, Riordan and Echeverria, Vanessa and Yan, Lixiang and Zhao, Linxuan and Tsai, Yi-Shan and Martinez-Maldonado, Roberto},\n  title = {\"It's Really Enjoyable to See Me Solve the Problem like a Hero\": GenAI-enhanced Data Comics as a Learning Analytics Tool},\n  year = {2024},\n  journal = {Conference on Human Factors in Computing Systems - Proceedings},\n  doi = {10.1145/3613905.3651111},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Pinargote2024150",
+    "title": "Automating Data Narratives in Learning Analytics Dashboards using GenAI",
+    "authorsHtml": "Pinargote, A., Calderón, E., Cevallos, K., Carrillo, G., Chiluiza, K., &amp; <strong>Echeverria, V.</strong>",
+    "venue": "CEUR Workshop Proceedings, 3667, 150–161 · 2024",
+    "year": "2024",
+    "type": "workshop",
+    "topics": [
+      "datastory",
+      "genai"
+    ],
+    "badges": [
+      {
+        "style": "workshop",
+        "text": "Workshop paper"
+      }
+    ],
+    "bibtex": "@CONFERENCE{Pinargote2024150,\n  author = {Pinargote, Adriano and Calderón, Eddy and Cevallos, Kevin and Carrillo, Gladys and Chiluiza, Katherine and Echeverria, Vanessa},\n  title = {Automating Data Narratives in Learning Analytics Dashboards using GenAI},\n  year = {2024},\n  journal = {CEUR Workshop Proceedings},\n  volume = {3667},\n  pages = {150 - 161},\n  publisher = {CEUR-WS}\n}"
+  },
+  {
+    "citekey": "Shao2024",
+    "title": "Data Storytelling in Data Visualisation: Does it Enhance the Eficiency and Efectiveness of Information Retrieval and Insights Comprehension?",
+    "authorsHtml": "Shao, H., Martinez-Maldonado, R., <strong>Echeverria, V.</strong>, Yan, L., &amp; Gašević, D.",
+    "venue": "CHI Conference on Human Factors in Computing Systems · 2024",
+    "year": "2024",
+    "type": "conference",
+    "topics": [
+      "datastory"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "CHI"
+      }
+    ],
+    "doi": "10.1145/3613904.3643022",
+    "bibtex": "@CONFERENCE{Shao2024,\n  author = {Shao, Hongbo and Martinez-Maldonado, Roberto and Echeverria, Vanessa and Yan, Lixiang and Gašević, Dragan},\n  title = {Data Storytelling in Data Visualisation: Does it Enhance the Eficiency and Efectiveness of Information Retrieval and Insights Comprehension?},\n  year = {2024},\n  journal = {Conference on Human Factors in Computing Systems - Proceedings},\n  doi = {10.1145/3613904.3643022},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Yan2024",
+    "title": "Human-AI Collaboration in Thematic Analysis using ChatGPT: A User Study and Design Recommendations",
+    "authorsHtml": "Yan, L., <strong>Echeverria, V.</strong>, Nieto, G. F., Jin, Y., Swiecki, Z., Zhao, L., Gašević, D., &amp; Martinez-Maldonado, R.",
+    "venue": "CHI Conference on Human Factors in Computing Systems · 2024",
+    "year": "2024",
+    "type": "conference",
+    "topics": [
+      "human-ai",
+      "genai"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "CHI"
+      }
+    ],
+    "doi": "10.1145/3613905.3650732",
+    "bibtex": "@CONFERENCE{Yan2024,\n  author = {Yan, Lixiang and Echeverria, Vanessa and Nieto, Gloria Fernandez and Jin, Yueqiao and Swiecki, Zachari and Zhao, Linxuan and Gašević, Dragan and Martinez-Maldonado, Roberto},\n  title = {Human-AI Collaboration in Thematic Analysis using ChatGPT: A User Study and Design Recommendations},\n  year = {2024},\n  journal = {Conference on Human Factors in Computing Systems - Proceedings},\n  doi = {10.1145/3613905.3650732},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Yan2024180",
+    "title": "VizChat: Enhancing Learning Analytics Dashboards with Contextualised Explanations Using Multimodal Generative AI Chatbots",
+    "authorsHtml": "Yan, L., Zhao, L., <strong>Echeverria, V.</strong>, Jin, Y., Alfredo, R., Li, X., Gaševi’c, D., &amp; Martinez-Maldonado, R.",
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14830 LNAI, 180–193 · 2024",
+    "year": "2024",
+    "type": "conference",
+    "topics": [
+      "dashboard",
+      "multimodal",
+      "genai"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "AIED"
+      }
+    ],
+    "doi": "10.1007/978-3-031-64299-9_13",
+    "bibtex": "@conference{Yan2024180,\n  author = {Yan, Lixiang and Zhao, Linxuan and Echeverria, Vanessa and Jin, Yueqiao and Alfredo, Riordan and Li, Xinyu and Gaševi’c, Dragan and Martinez-Maldonado, Roberto},\n  title = {VizChat: Enhancing Learning Analytics Dashboards with Contextualised Explanations Using Multimodal Generative AI Chatbots},\n  year = {2024},\n  journal = {Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},\n  volume = {14830 LNAI},\n  pages = {180 - 193},\n  doi = {10.1007/978-3-031-64299-9_13},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Yang2024498",
+    "title": "Leveraging Multimodal Classroom Data for Teacher Reflection: Teachers’ Preferences, Practices, and Privacy Considerations",
+    "authorsHtml": "Yang, K. B., Borchers, C., Falhs, A.-C., <strong>Echeverria, V.</strong>, Karumbaiah, S., Rummel, N., &amp; Aleven, V.",
+    "venue": "19th European Conference on Technology Enhanced Learning, EC-TEL, 498–511 · 2024",
+    "year": "2024",
+    "type": "conference",
+    "topics": [
+      "ethics",
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "EC-TEL"
+      }
+    ],
+    "doi": "10.1007/978-3-031-72315-5_34",
+    "bibtex": "@conference{Yang2024498,\n  author = {Yang, Kexin Bella and Borchers, Conrad and Falhs, Ann-Christin and Echeverria, Vanessa and Karumbaiah, Shamya and Rummel, Nikol and Aleven, Vincent},\n  title = {Leveraging Multimodal Classroom Data for Teacher Reflection: Teachers’ Preferences, Practices, and Privacy Considerations},\n  year = {2024},\n  booktitle = {19th European Conference on Technology Enhanced Learning, EC-TEL, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},\n  volume = {15159 LNCS},\n  pages = {498 - 511},\n  doi = {10.1007/978-3-031-72315-5_34},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Zhao202490",
+    "title": "Epistemic Network Analysis for End-users: Closing the Loop in the Context of Multimodal Analytics for Collaborative Team Learning",
+    "authorsHtml": "Zhao, L., <strong>Echeverria, V.</strong>, Swiecki, Z., Yan, L., Alfredo, R., Li, X., Gasevic, D., &amp; Martinez-Maldonado, R.",
+    "venue": "14th International Learning Analytics and Knowledge Conference, 90–100 · 2024",
+    "year": "2024",
+    "type": "conference",
+    "topics": [
+      "multimodal",
+      "healthcare"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "LAK"
+      }
+    ],
+    "doi": "10.1145/3636555.3636855",
+    "bibtex": "@CONFERENCE{Zhao202490,\n  author = {Zhao, Linxuan and Echeverria, Vanessa and Swiecki, Zachari and Yan, Lixiang and Alfredo, Riordan and Li, Xinyu and Gasevic, Dragan and Martinez-Maldonado, Roberto},\n  title = {Epistemic Network Analysis for End-users: Closing the Loop in the Context of Multimodal Analytics for Collaborative Team Learning},\n  year = {2024},\n  journal = {ACM International Conference Proceeding Series},\n  pages = {90 - 100},\n  doi = {10.1145/3636555.3636855},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Echeverria202339",
+    "title": "HuCETA: A Framework for Human-Centered Embodied Teamwork Analytics",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Martinez-Maldonado, R., Yan, L., Zhao, L., Fernandez-Nieto, G., Gašević, D., &amp; Shum, S. B.",
+    "venue": "IEEE Pervasive Computing, vol. 22, no. 1, pp. 39–49 · 2023",
+    "year": "2023",
+    "type": "journal",
+    "topics": [
+      "healthcare",
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "award": "🏅 Runner-up Best Paper 2024",
+    "doi": "10.1109/MPRV.2022.3217454",
+    "bibtex": "@ARTICLE{Echeverria202339,\n  author = {Echeverria, Vanessa and Martinez-Maldonado, Roberto and Yan, Lixiang and Zhao, Linxuan and Fernandez-Nieto, Gloria and Gasevic, Dragan and Shum, Simon Buckingham},\n  title = {HuCETA: A Framework for Human-Centered Embodied Teamwork Analytics},\n  year = {2023},\n  journal = {IEEE Pervasive Computing},\n  volume = {22},\n  number = {1},\n  pages = {39-49},\n  doi = {10.1109/MPRV.2022.3217454},\n  publisher = {Institute of Electrical and Electronics Engineers Inc.}\n}"
+  },
+  {
+    "citekey": "Yang2023",
+    "title": "Pair-Up: Prototyping Human-AI Co-orchestration of Dynamic Transitions between Individual and Collaborative Learning in the Classroom",
+    "authorsHtml": "Yang, K. B, <strong>Echeverria, V.</strong>, Lu, Z., Mao, H., Holstein, K., Rummel, N., Aleven, V.",
+    "venue": "CHI Conference on Human Factors in Computing Systems · 2023",
+    "year": "2023",
+    "type": "conference",
+    "topics": [
+      "human-ai"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "CHI"
+      }
+    ],
+    "doi": "10.1145/3544548.3581398",
+    "bibtex": "@CONFERENCE{Yang2023,\n  author = {Yang, Kexin Bella and Echeverria, Vanessa and Lu, Zijing and Mao, Hongyu and Holstein, Kenneth and Rummel, Nikol and Aleven, Vincent},\n  title = {Pair-Up: Prototyping Human-AI Co-orchestration of Dynamic Transitions between Individual and Collaborative Learning in the Classroom},\n  year = {2023},\n  journal = {Conference on Human Factors in Computing Systems - Proceedings},\n  doi = {10.1145/3544548.3581398},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Echeverria2023TLT",
+    "title": "Designing Hybrid Human–AI Orchestration Tools for Individual and Collaborative Activities: A Technology Probe Study",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Yang, K., Lawrence, L., Rummel, N., Aleven, V.",
+    "venue": "IEEE Transactions on Learning Technologies, vol. 16, no. 2, pp. 191–205 · 2023",
+    "year": "2023",
+    "type": "journal",
+    "topics": [
+      "human-ai"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1109/TLT.2023.3248155",
+    "bibtex": "@ARTICLE{Echeverria2023TLT, \n author={Echeverria, Vanessa and Yang, Kexin and Lawrence, LuEttaMae and Rummel, Nikol and Aleven, Vincent}, \n journal={IEEE Transactions on Learning Technologies},  \n title={Designing Hybrid Human–AI Orchestration Tools for Individual and Collaborative Activities: A Technology Probe Study},  \n year={2023}, \n volume={16}, \n number={2}, \n pages={191-205}, \n keywords={Artificial intelligence;Federated learning;Collaboration;Task analysis;Monitoring;Mathematical models;Switches;Adaptive and intelligent educational systems;collaborative learning;human–AI orchestration;hybrid human–AI tools;individual learning;orchestration tools}, \n doi={10.1109/TLT.2023.3248155}}" 
+  },
+  {
+    "citekey": "Chiluiza202360",
+    "title": "Implementing Synchronous Hybrid Learning: Insights from Teachers and Students’ Experiences",
+    "authorsHtml": "Chiluiza, K., <strong>Echeverria, V.</strong>, Pinargote, A., Carrillo, G., &amp; Ortiz-Rojas, M.",
+    "venue": "18th Latin American Conference on Learning Technologies (LACLO 2023), 60–74 · 2023",
+    "year": "2023",
+    "type": "journal",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1007/978-981-99-7353-8_6",
+    "bibtex": "@conference{Chiluiza202360,\n  author = {Chiluiza, Katherine and Echeverria, Vanessa and Pinargote, Adriano and Carrillo, Gladys and Ortiz-Rojas, Margarita},\n  title = {Implementing Synchronous Hybrid Learning: Insights from Teachers and Students’ Experiences},\n  year = {2023},\n  booktitle = {8th Latin American Conference on Learning Technologies (LACLO 2023). Lecture Notes in Educational Technology.},\n  volume = {Part F2610},\n  pages = {60 - 74},\n  doi = {10.1007/978-981-99-7353-8_6},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Echeverria2023191",
+    "title": "Designing Hybrid Human-AI Orchestration Tools for Individual and Collaborative Activities: A Technology Probe Study",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Yang, K., Lawrence, L., Rummel, N., &amp; Aleven, V.",
+    "venue": "IEEE Transactions on Learning Technologies, 16(2), 191–205 · 2023",
+    "year": "2023",
+    "type": "journal",
+    "topics": [
+      "human-ai",
+      "classroom"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1109/TLT.2023.3248155",
+    "bibtex": "@ARTICLE{Echeverria2023191,\n  author = {Echeverria, Vanessa and Yang, Kexin and Lawrence, LuEttaMae and Rummel, Nikol and Aleven, Vincent},\n  title = {Designing Hybrid Human-AI Orchestration Tools for Individual and Collaborative Activities: A Technology Probe Study},\n  year = {2023},\n  journal = {IEEE Transactions on Learning Technologies},\n  volume = {16},\n  number = {2},\n  pages = {191 - 205},\n  doi = {10.1109/TLT.2023.3248155},\n  publisher = {Institute of Electrical and Electronics Engineers Inc.}\n}"
+  },
+  {
+    "citekey": "Lawrence2023173",
+    "title": "Acknowledging Power Structures in the Design of AI-Based Orchestration Tools",
+    "authorsHtml": "Lawrence, L., <strong>Echeverria, V.</strong>, &amp; Rummel, N.",
+    "venue": "Proceedings of International Conference of the Learning Sciences, ICLS, 2023-June, 173–176 · 2023",
+    "year": "2023",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.22318/cscl2023.337071",
+    "bibtex": "@CONFERENCE{Lawrence2023173,\n  author = {Lawrence, LuEttaMae and Echeverria, Vanessa and Rummel, Nikol},\n  title = {Acknowledging Power Structures in the Design of AI-Based Orchestration Tools},\n  year = {2023},\n  journal = {Proceedings of International Conference of the Learning Sciences, ICLS},\n  volume = {2023-June},\n  pages = {173 - 176},\n  doi = {10.22318/cscl2023.337071},\n  publisher = {International Society of the Learning Sciences (ISLS)}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado2023",
+    "title": "Lessons Learnt from a Multimodal Learning Analytics Deployment In-The-Wild",
+    "authorsHtml": "Martinez-Maldonado, R., <strong>Echeverria, V.</strong>, Fernandez-Nieto, G., Yan, L., Zhao, L., Alfredo, R., Li, X., Dix, S., Jaggard, H., Wotherspoon, R., Osborne, A., Shum, S. B., &amp; Gašević, D.",
+    "venue": "ACM Transactions on Computer-Human Interaction, 31(1) · 2023",
+    "year": "2023",
+    "type": "journal",
+    "topics": [
+      "multimodal",
+      "healthcare"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1145/3622784",
+    "bibtex": "@ARTICLE{Martinez-Maldonado2023,\n  author = {Martinez-Maldonado, Roberto and Echeverria, Vanessa and Fernandez-Nieto, Gloria and Yan, Lixiang and Zhao, Linxuan and Alfredo, Riordan and Li, Xinyu and Dix, Samantha and Jaggard, Hollie and Wotherspoon, Rosie and Osborne, Abra and Shum, Simon Buckingham and Gašević, Dragan},\n  title = {Lessons Learnt from a Multimodal Learning Analytics Deployment In-The-Wild},\n  year = {2023},\n  journal = {ACM Transactions on Computer-Human Interaction},\n  volume = {31},\n  number = {1},\n  doi = {10.1145/3622784},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Núñez2023217",
+    "title": "TMBQ-LT: A Student-Facing Learning Tool to Support Time Management Skills",
+    "authorsHtml": "Núñez, A.-G., <strong>Echeverria, V.</strong>, Zuñiga-Prieto, M., Auria, B., &amp; De Laet, T.",
+    "venue": "International Conference on Computer Supported Education, CSEDU - Proceedings, 1, 217–224 · 2023",
+    "year": "2023",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.5220/0011847500003470",
+    "bibtex": "@CONFERENCE{Núñez2023217,\n  author = {Núñez, Ana-Gabriela and Echeverria, Vanessa and Zuñiga-Prieto, Miguel and Auria, Benito and De Laet, Tinne},\n  title = {TMBQ-LT: A Student-Facing Learning Tool to Support Time Management Skills},\n  year = {2023},\n  journal = {International Conference on Computer Supported Education, CSEDU - Proceedings},\n  volume = {1},\n  pages = {217 - 224},\n  doi = {10.5220/0011847500003470},\n  publisher = {Science and Technology Publications, Lda}\n}"
+  },
+  {
+    "citekey": "Ochoa2023237",
+    "title": "Supporting Online Collaborative Work at Scale: A Mixed-Methods Study of a Learning Analytics Tool",
+    "authorsHtml": "Ochoa, X., <strong>Echeverria, V.</strong>, Carrillo, G., Heredia, V., &amp; Chiluiza, K.",
+    "venue": "L@S 2023 - Proceedings of the 10th ACM Conference on Learning @ Scale, 237–247 · 2023",
+    "year": "2023",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "Learning at Scale"
+      }
+    ],
+    "doi": "10.1145/3573051.3596165",
+    "bibtex": "@CONFERENCE{Ochoa2023237,\n  author = {Ochoa, Xavier and Echeverria, Vanessa and Carrillo, Gladys and Heredia, Vanessa and Chiluiza, Katherine},\n  title = {Supporting Online Collaborative Work at Scale: A Mixed-Methods Study of a Learning Analytics Tool},\n  year = {2023},\n  journal = {L@S 2023 - Proceedings of the 10th ACM Conference on Learning @ Scale},\n  pages = {237 - 247},\n  doi = {10.1145/3573051.3596165},\n  publisher = {Association for Computing Machinery, Inc}\n}"
+  },
+  {
+    "citekey": "Pozdniakov202389",
+    "title": "How Do Teachers Use Dashboards Enhanced with Data Storytelling Elements According to their Data Visualisation Literacy Skills?",
+    "authorsHtml": "Pozdniakov, S., Martinez-Maldonado, R., Tsai, Y.-S., <strong>Echeverria, V.</strong>, Srivastava, N., &amp; Gasevic, D.",
+    "venue": "13th International Learning Analytics and Knowledge Conference, 89–99 · 2023",
+    "year": "2023",
+    "type": "conference",
+    "topics": [
+      "dashboard"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "LAK"
+      }
+    ],
+    "doi": "10.1145/3576050.3576063",
+    "bibtex": "@CONFERENCE{Pozdniakov202389,\n  author = {Pozdniakov, Stanislav and Martinez-Maldonado, Roberto and Tsai, Yi-Shan and Echeverria, Vanessa and Srivastava, Namrata and Gasevic, Dragan},\n  title = {How Do Teachers Use Dashboards Enhanced with Data Storytelling Elements According to their Data Visualisation Literacy Skills?},\n  year = {2023},\n  journal = {ACM International Conference Proceeding Series},\n  pages = {89 - 99},\n  doi = {10.1145/3576050.3576063},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Lawrence2022139",
+    "title": "Co-designing AI-based orchestration tools to support dynamic transitions: Design narratives through conjecture mapping",
+    "authorsHtml": "Lawrence, L., Guo, B., <strong>Echeverria, V.</strong>, Kang, Z., Bathala, V., Li, C., et al.",
+    "venue": "15th International Conference on Computer-Supported Collaborative Learning · 2022",
+    "year": "2022",
+    "type": "conference",
+    "topics": [
+      "codesign",
+      "human-ai"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "CSCL"
+      }
+    ],
+    "award": "🏆 Best Design Paper Award",
+    "bibtex": "@CONFERENCE{Lawrence2022139,\n  author = {Lawrence, LuEttaMae and Guo, Boyuan and Yang, Kexin and Echeverria, Vanessa and Kang, Zimmy and Bathala, Vikrant and Li, Christina and Huang, William and Aleven, Vincent and Rummel, Nikol},\n  title = {Co-Designing AI-Based Orchestration Tools to Support Dynamic Transitions: Design Narratives Through Conjecture Mapping},\n  year = {2022},\n  journal = {Computer-Supported Collaborative Learning Conference, CSCL},\n  volume = {2022-June},\n  pages = {139 - 146},\n  publisher = {International Society of the Learning Sciences (ISLS)}\n}"
+  },
+  {
+    "citekey": "Echeverria2022478",
+    "title": "An Exploratory Evaluation of a Feedback Report",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Villacres-Wong, M., Ochoa, X., Chiluiza, K.",
+    "venue": "12th International Learning Analytics and Knowledge Conference · 2022",
+    "year": "2022",
+    "type": "conference",
+    "topics": [
+      "dashboard"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "LAK"
+      }
+    ],
+    "doi": "10.1145/3506860.3506890",
+    "bibtex": "@CONFERENCE{Echeverria2022478,\n  author = {Echeverria, Vanessa and Wong-Villacres, Marisol and Ochoa, Xavier and Chiluiza, Katherine},\n  title = {An Exploratory Evaluation of a Collaboration Feedback Report},\n  year = {2022},\n  journal = {ACM International Conference Proceeding Series},\n  pages = {478-484},\n  doi = {10.1145/3506860.3506890},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Avila2022",
+    "title": "Learning Analytics to Support the Provision of Feedback in Higher Education: a Systematic Literature Review",
+    "authorsHtml": "Avila, A.-G. N., Silva Feraud, I. F., Solano-Quinde, L. D., Zuniga-Prieto, M., <strong>Echeverria, V.</strong>, &amp; De Laet, T.",
+    "venue": "2022 17th Latin American Conference on Learning Technologies, LACLO 2022 · 2022",
+    "year": "2022",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1109/LACLO56648.2022.10013324",
+    "bibtex": "@CONFERENCE{Avila2022,\n  author = {Avila, Ana-Gabriela Nunez and Silva Feraud, Ivan Francisco and Solano-Quinde, Lizandro Damian and Zuniga-Prieto, Miguel and Echeverria, Vanessa and De Laet, Tinne},\n  title = {Learning Analytics to Support the Provision of Feedback in Higher Education: a Systematic Literature Review},\n  year = {2022},\n  journal = {2022 17th Latin American Conference on Learning Technologies, LACLO 2022},\n  doi = {10.1109/LACLO56648.2022.10013324},\n  publisher = {Institute of Electrical and Electronics Engineers Inc.}\n}"
+  },
+  {
+    "citekey": "Barzola2022357",
+    "title": "Analyzing Speech Data to Detect Work Environment in Group Activities",
+    "authorsHtml": "Barzola, V., Alvarado, E., Loja, C., Velez, A., Silva, I., &amp; <strong>Echeverria, V.</strong>",
+    "venue": "Lecture Notes in Computer Science, 13356 LNCS, 357–361 · 2022",
+    "year": "2022",
+    "type": "workshop",
+    "topics": [],
+    "badges": [
+      {
+        "style": "workshop",
+        "text": "Poster"
+      },
+      {
+        "style": "conference",
+        "text": "AIED"
+      }
+    ],
+    "doi": "10.1007/978-3-031-11647-6_69",
+    "bibtex": "@conference{Barzola2022357,\n  author = {Barzola, Valeria and Alvarado, Eddo and Loja, Carlos and Velez, Alex and Silva, Ivan and Echeverria, Vanessa},\n  title = {Analyzing Speech Data to Detect Work Environment in Group Activities},\n  year = {2022},\n  booktitle = {Artificial Intelligence in Education. AIED2022. Lecture Notes in Computer Science},\n  volume = {13356 LNCS},\n  pages = {357 - 361},\n  doi = {10.1007/978-3-031-11647-6_69},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado20221077",
+    "title": "Designing translucent learning analytics with teachers: an elicitation process",
+    "authorsHtml": "Martinez-Maldonado, R., Elliott, D., Axisa, C., Power, T., <strong>Echeverria, V.</strong>, &amp; Buckingham Shum, S.",
+    "venue": "Interactive Learning Environments, 30(6), 1077–1091 · 2022",
+    "year": "2022",
+    "type": "journal",
+    "topics": [
+      "multimodal",
+      "codesign"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1080/10494820.2019.1710541",
+    "bibtex": "@ARTICLE{Martinez-Maldonado20221077,\n  author = {Martinez-Maldonado, Roberto and Elliott, Doug and Axisa, Carmen and Power, Tamara and Echeverria, Vanessa and Buckingham Shum, Simon},\n  title = {Designing translucent learning analytics with teachers: an elicitation process},\n  year = {2022},\n  journal = {Interactive Learning Environments},\n  volume = {30},\n  number = {6},\n  pages = {1077 - 1091},\n  doi = {10.1080/10494820.2019.1710541},\n  publisher = {Routledge}\n}"
+  },
+  {
+    "citekey": "Silva2022",
+    "title": "Gamification in Engineering Education: Exploring Students' Performance, Motivation, and Engagement",
+    "authorsHtml": "Silva, I., Wong, A., Auria, B., Zambrano, D., &amp; <strong>Echeverria, V.</strong>",
+    "venue": "6th IEEE Ecuador Technical Chapters Meeting, ETCM 2022 · 2022",
+    "year": "2022",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1109/ETCM56276.2022.9935729",
+    "bibtex": "@CONFERENCE{Silva2022,\n  author = {Silva, Ivan and Wong, Andres and Auria, Benito and Zambrano, Dick and Echeverria, Vanessa},\n  title = {Gamification in Engineering Education: Exploring Students' Performance, Motivation, and Engagement},\n  year = {2022},\n  journal = {6th IEEE Ecuador Technical Chapters Meeting, ETCM 2022},\n  doi = {10.1109/ETCM56276.2022.9935729},\n  publisher = {Institute of Electrical and Electronics Engineers Inc.}\n}"
+  },
+  {
+    "citekey": "Yang2022673",
+    "title": "Technology Ecosystem for Orchestrating Dynamic Transitions Between Individual and Collaborative AI-Tutored Problem Solving",
+    "authorsHtml": "Yang, K. B., Lu, Z., <strong>Echeverria, V.</strong>, Sewall, J., Lawrence, L., Rummel, N., &amp; Aleven, V.",
+    "venue": "Artificial Intelligence in Education. AIED · 2022",
+    "year": "2022",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "AIED"
+      }
+    ],
+    "doi": "10.1007/978-3-031-11644-5_66",
+    "bibtex": "@conference{Yang2022673,\n  author = {Yang, Kexin Bella and Lu, Zijing and Echeverria, Vanessa and Sewall, Jonathan and Lawrence, Luettamae and Rummel, Nikol and Aleven, Vincent},\n  title = {Technology Ecosystem for Orchestrating Dynamic Transitions Between Individual and Collaborative AI-Tutored Problem Solving},\n  year = {2022},\n  booktitle = {Artificial Intelligence in Education. AIED 2022. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},\n  volume = {13355 LNCS},\n  pages = {673 - 678},\n  doi = {10.1007/978-3-031-11644-5_66},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado20221025",
+    "title": "Moodoo the Tracker: Spatial Classroom Analytics for Characterising Teachers' Pedagogical Approaches",
+    "authorsHtml": "Martinez-Maldonado, R., <strong>Echeverria, V.</strong>, Mangaroska, K. et al.",
+    "venue": "International Journal of Artificial Intelligence in Education · 2021",
+    "year": "2021",
+    "type": "journal",
+    "topics": [
+      "multimodal",
+      "classroom"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1007/s40593-021-00276-w",
+    "bibtex": "@ARTICLE{Martinez-Maldonado20221025,\n  author = {Martinez-Maldonado, Roberto and Echeverria, Vanessa and Mangaroska, Katerina and Shibani, Antonette and Fernandez-Nieto, Gloria and Schulte, Jurgen and Buckingham Shum, Simon},\n  title = {Moodoo the Tracker: Spatial Classroom Analytics for Characterising Teachers' Pedagogical Approaches},\n  year = {2022},\n  journal = {International Journal of Artificial Intelligence in Education},\n  volume = {32},\n  number = {4},\n  pages = {1025-1051},\n  doi = {10.1007/s40593-021-00276-w},\n  publisher = {Springer}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado2021126",
+    "title": "What do you mean by collaboration analytics? A conceptual model",
+    "authorsHtml": "Martinez-Maldonado, R., Gašević, D., <strong>Echeverria, V.</strong>, Nieto, G. F., Swiecki, Z., &amp; Shum, S. B.",
+    "venue": "Journal of Learning Analytics, 8(1), 126–153 · 2021",
+    "year": "2021",
+    "type": "journal",
+    "topics": [
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.18608/JLA.2021.7227",
+    "bibtex": "@ARTICLE{Martinez-Maldonado2021126,\n  author = {Martinez-Maldonado, Roberto and Gašević, Dragan and Echeverria, Vanessa and Nieto, Gloria Fernandez and Swiecki, Zachari and Shum, Simon Buckingham},\n  title = {What do you mean by collaboration analytics? A conceptual model},\n  year = {2021},\n  journal = {Journal of Learning Analytics},\n  volume = {8},\n  number = {1},\n  pages = {126-153},\n  doi = {10.18608/JLA.2021.7227},\n  publisher = {UTS ePRESS}\n}"
+  },
+  {
+    "citekey": "Auria2021541",
+    "title": "A Collaborative Design Tool to Support Learning Environments during Emergent Remote Learning",
+    "authorsHtml": "Auria, B., Barzola, V., &amp; <strong>Echeverria, V.</strong>",
+    "venue": "2021 IEEE URUCON, URUCON 2021, 541–546 · 2021",
+    "year": "2021",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1109/URUCON53396.2021.9647346",
+    "bibtex": "@CONFERENCE{Auria2021541,\n  author = {Auria, Benito and Barzola, Valeria and Echeverria, Vanessa},\n  title = {A Collaborative Design Tool to Support Learning Environments during Emergent Remote Learning},\n  year = {2021},\n  journal = {2021 IEEE URUCON, URUCON 2021},\n  pages = {541 - 546},\n  doi = {10.1109/URUCON53396.2021.9647346},\n  publisher = {Institute of Electrical and Electronics Engineers Inc.}\n}"
+  },
+  {
+    "citekey": "Barzola2021310",
+    "title": "“I Need More Motivation”: Engaging Students in the Gamification Design Process",
+    "authorsHtml": "Barzola, V., Pichardo, H., Macías, J., Zambrano, D., &amp; <strong>Echeverria, V.</strong>",
+    "venue": "Technology-Enhanced Learning for a Free, Safe, and Sustainable World. EC-TEL, 310–314 · 2021",
+    "year": "2021",
+    "type": "workshop",
+    "topics": [
+      "design"
+    ],
+    "badges": [
+      {
+        "style": "workshop",
+        "text": "Poster"
+      },
+      {
+        "style": "conference",
+        "text": "EC-TEL"
+      }
+    ],
+    "doi": "10.1007/978-3-030-86436-1_26",
+    "bibtex": "@workshop{Barzola2021310,\n  author = {Barzola, Valeria and Pichardo, Harlyn and Macías, Julio and Zambrano, Dick and Echeverria, Vanessa},\n  title = {“I Need More Motivation”: Engaging Students in the Gamification Design Process},\n  year = {2021},\n  booktitle = {Technology-Enhanced Learning for a Free, Safe, and Sustainable World. EC-TEL 2021. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},\n  volume = {12884 LNCS},\n  pages = {310 - 314},\n  doi = {10.1007/978-3-030-86436-1_26},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Fernandez-Nieto2021",
+    "title": "What Can Analytics for Teamwork Proxemics Reveal About Positioning Dynamics In Clinical Simulations?",
+    "authorsHtml": "Fernandez-Nieto, G., Martinez-Maldonado, R., <strong>Echeverria, V.</strong>, Kitto, K., An, P., &amp; Buckingham Shum, S.",
+    "venue": "Proceedings of the ACM on Human-Computer Interaction, 5(CSCW1) · 2021",
+    "year": "2021",
+    "type": "journal",
+    "topics": [
+      "healthcare",
+      "teamwork analytics"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1145/3449284",
+    "bibtex": "@ARTICLE{Fernandez-Nieto2021,\n  author = {Fernandez-Nieto, Gloria and Martinez-Maldonado, Roberto and Echeverria, Vanessa and Kitto, Kirsty and An, Pengcheng and Buckingham Shum, Simon},\n  title = {What Can Analytics for Teamwork Proxemics Reveal About Positioning Dynamics In Clinical Simulations?},\n  year = {2021},\n  journal = {Proceedings of the ACM on Human-Computer Interaction},\n  volume = {5},\n  number = {CSCW1},\n  doi = {10.1145/3449284},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Fernandez-Nieto2021695",
+    "title": "Storytelling with Learner Data: Guiding Student Reflection on Multimodal Team Data",
+    "authorsHtml": "Fernandez-Nieto, G. M., <strong>Echeverria, V.</strong>, Shum, S. B., Mangaroska, K., Kitto, K., Palominos, E., Axisa, C., &amp; Martinez-Maldonado, R.",
+    "venue": "IEEE Transactions on Learning Technologies, 14(5), 695–708 · 2021",
+    "year": "2021",
+    "type": "journal",
+    "topics": [
+      "multimodal",
+      "dashboard"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1109/TLT.2021.3131842",
+    "bibtex": "@ARTICLE{Fernandez-Nieto2021695,\n  author = {Fernandez-Nieto, Gloria Milena and Echeverria, Vanessa and Shum, Simon Buckingham and Mangaroska, Katerina and Kitto, Kirsty and Palominos, Evelyn and Axisa, Carmen and Martinez-Maldonado, Roberto},\n  title = {Storytelling with Learner Data: Guiding Student Reflection on Multimodal Team Data},\n  year = {2021},\n  journal = {IEEE Transactions on Learning Technologies},\n  volume = {14},\n  number = {5},\n  pages = {695 - 708},\n  doi = {10.1109/TLT.2021.3131842},\n  publisher = {Institute of Electrical and Electronics Engineers Inc.}\n}"
+  },
+  {
+    "citekey": "Jang2021518",
+    "title": "Explorations of designing spatial classroom analytics with virtual prototyping",
+    "authorsHtml": "Jang, J., Lee, J., <strong>Echeverria, V.</strong>, Lawrence, L., &amp; Aleven, V.",
+    "venue": "11th International Conference on Learning Analytics and Knowledge, LAK 2021, 518–524",
+    "year": "2021",
+    "type": "conference",
+    "topics": [
+      "codesign",
+      "classroom"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "LAK"
+      }
+    ],
+    "doi": "10.1145/3448139.3448192",
+    "bibtex": "@CONFERENCE{Jang2021518,\n  author = {Jang, JiWoong and Lee, Jaewook and Echeverria, Vanessa and Lawrence, LuEttaMae and Aleven, Vincent},\n  title = {Explorations of designing spatial classroom analytics with virtual prototyping},\n  year = {2021},\n  journal = {ACM International Conference Proceeding Series},\n  pages = {518 - 524},\n  doi = {10.1145/3448139.3448192},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  
+  {
+    "citekey": "Yang2021183",
+    "title": "Exploring Policies for Dynamically Teaming Up Students through Log Data Simulation",
+    "authorsHtml": "Yang, K. B., <strong>Echeverria, V.</strong>, Wang, X., Lawrence, L., Holstein, K., Rummel, N., &amp; Aleven, V.",
+    "venue": "14th International Conference on Educational Data Mining, EDM 2021, 183–194 · 2021",
+    "year": "2021",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "bibtex": "@CONFERENCE{Yang2021183,\n  author = {Yang, Kexin Bella and Echeverria, Vanessa and Wang, Xuejian and Lawrence, LuEttaMae and Holstein, Kenneth and Rummel, Nikol and Aleven, Vincent},\n  title = {Exploring Policies for Dynamically Teaming Up Students through Log Data Simulation},\n  year = {2021},\n  journal = {Proceedings of the 14th International Conference on Educational Data Mining, EDM 2021},\n  pages = {183 - 194},\n  publisher = {International Educational Data Mining Society}\n}"
+  },
+  {
+    "citekey": "Yang2021260",
+    "title": "Surveying Teachers’ Preferences and Boundaries Regarding Human-AI Control in Dynamic Pairing of Students for Collaborative Learning",
+    "authorsHtml": "Yang, K. B., Lawrence, L., <strong>Echeverria, V.</strong>, Guo, B., Rummel, N., &amp; Aleven, V.",
+    "venue": "Technology-Enhanced Learning for a Free, Safe, and Sustainable World. EC-TEL, 260–274 · 2021",
+    "year": "2021",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1007/978-3-030-86436-1_20",
+    "bibtex": "@conference{Yang2021260,\n  author = {Yang, Kexin Bella and Lawrence, LuEttaMae and Echeverria, Vanessa and Guo, Boyuan and Rummel, Nikol and Aleven, Vincent},\n  title = {Surveying Teachers’ Preferences and Boundaries Regarding Human-AI Control in Dynamic Pairing of Students for Collaborative Learning},\n  year = {2021},\n  booktitle = {Technology-Enhanced Learning for a Free, Safe, and Sustainable World. EC-TEL 2021. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},\n  volume = {12884 LNCS},\n  pages = {260 - 274},\n  doi = {10.1007/978-3-030-86436-1_20},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado2020",
+    "title": "From Data to Insights: A Layered Storytelling Approach for Multimodal Learning Analytics",
+    "authorsHtml": "Martinez-Maldonado, R., <strong>Echeverria, V.</strong>, Fernandez Nieto, G., &amp; Buckingham Shum, S.",
+    "venue": "CHI Conference on Human Factors in Computing Systems (CHI '20) · 2020",
+    "year": "2020",
+    "type": "conference",
+    "topics": [
+      "datastory",
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "CHI"
+      }
+    ],
+    "award": "TOP 2% · FWCI 6.29",
+    "doi": "10.1145/3313831.3376148",
+    "bibtex": "@CONFERENCE{Martinez-Maldonado2020,\n  author = {Martinez-Maldonado, Roberto and Echeverria, Vanessa and Fernandez Nieto, Gloria and Buckingham Shum, Simon},\n  title = {From Data to Insights: A Layered Storytelling Approach for Multimodal Learning Analytics},\n  year = {2020},\n  journal = {Conference on Human Factors in Computing Systems - Proceedings},\n  doi = {10.1145/3313831.3376148},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado2020360",
+    "title": "Moodoo: Indoor Positioning Analytics for Characterising Classroom Teaching",
+    "authorsHtml": "Martinez-Maldonado, R., <strong>Echeverria, V.</strong>, Schulte, J., Shibani, A., Mangaroska, K., &amp; Buckingham Shum, S.",
+    "venue": "21st International Conference on Artificial Intelligence in Education, AIED 2020 · 2020",
+    "year": "2020",
+    "type": "conference",
+    "topics": [
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "AIED"
+      }
+    ],
+    "award": "🏆 Best Paper Award",
+    "doi": "10.1007/978-3-030-52237-7_29",
+    "bibtex": "@ARTICLE{Martinez-Maldonado2020360,\n  author = {Martinez-Maldonado, Roberto and Echeverria, Vanessa and Schulte, Jurgen and Shibani, Antonette and Mangaroska, Katerina and Buckingham Shum, Simon},\n  title = {Moodoo: Indoor positioning analytics for characterising classroom teaching},\n  year = {2020},\n  journal = {Lecture Notes in Computer Science},\n  volume = {12163 LNAI},\n  pages = {360-373},\n  doi = {10.1007/978-3-030-52237-7_29},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Echeverria2020230",
+    "title": "Exploring human–ai control over dynamic transitions between individual and collaborative learning",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Holstein, K., Huang, J., Sewall, J., Rummel, N., &amp; Aleven, V.",
+    "venue": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 12315 LNCS, 230–243 · 2020",
+    "year": "2020",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1007/978-3-030-57717-9_17",
+    "bibtex": "@ARTICLE{Echeverria2020230,\n  author = {Echeverria, Vanessa and Holstein, Kenneth and Huang, Jennifer and Sewall, Jonathan and Rummel, Nikol and Aleven, Vincent},\n  title = {Exploring human–ai control over dynamic transitions between individual and collaborative learning},\n  year = {2020},\n  journal = {Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},\n  volume = {12315 LNCS},\n  pages = {230 - 243},\n  doi = {10.1007/978-3-030-57717-9_17},\n  publisher = {Springer Science and Business Media Deutschland GmbH}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado2020741",
+    "title": "Where is the teacher? Digital analytics for classroom proxemics",
+    "authorsHtml": "Martinez-Maldonado, R., Schulte, J., <strong>Echeverria, V.</strong>, Gopalan, Y., &amp; Shum, S. B.",
+    "venue": "Journal of Computer Assisted Learning, 36(5), 741–762 · 2020",
+    "year": "2020",
+    "type": "journal",
+    "topics": [],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ],
+    "doi": "10.1111/jcal.12444",
+    "bibtex": "@ARTICLE{Martinez-Maldonado2020741,\n  author = {Martinez-Maldonado, Roberto and Schulte, Jurgen and Echeverria, Vanessa and Gopalan, Yuveena and Shum, Simon Buckingham},\n  title = {Where is the teacher? Digital analytics for classroom proxemics},\n  year = {2020},\n  journal = {Journal of Computer Assisted Learning},\n  volume = {36},\n  number = {5},\n  pages = {741 - 762},\n  doi = {10.1111/jcal.12444},\n  publisher = {Blackwell Publishing Ltd}\n}"
+  },
+  {
+    "citekey": "Echeverria2019",
+    "title": "Towards Collaboration Translucence: Giving Meaning to Multimodal Group Data",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Martinez-Maldonado, R., &amp; Buckingham Shum, S.",
+    "venue": "CHI Conference on Human Factors in Computing Systems (CHI '19) · 2019",
+    "year": "2019",
+    "type": "conference",
+    "topics": [
+      "multimodal",
+      "codesign"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "CHI"
+      }
+    ],
+    "award": "TOP 2% · FWCI 7.12",
+    "doi": "10.1145/3290605.3300269",
+    "bibtex": "@CONFERENCE{Echeverria2019,\n  author = {Echeverria, Vanessa and Martinez-Maldonado, Roberto and Shum, Simon Buckingham},\n  title = {Towards collaboration translucence: Giving meaning to multimodal group data},\n  year = {2019},\n  journal = {Conference on Human Factors in Computing Systems - Proceedings},\n  doi = {10.1145/3290605.3300269},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Buckingham Shum201926",
+    "title": "The Multimodal Matrix as a Quantitative Ethnography Methodology",
+    "authorsHtml": "Buckingham Shum, S., <strong>Echeverria, V.</strong>, &amp; Martinez-Maldonado, R.",
+    "venue": "Quantitative Ethnography Conference, 1112, 26–40 · 2019",
+    "year": "2019",
+    "type": "conference",
+    "topics": [
+      "multimodal",
+      "human-ai"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "QE"
+      }
+    ],
+    "doi": "10.1007/978-3-030-33232-7_3",
+    "bibtex": "@ARTICLE{Buckingham Shum201926,\n  author = {Buckingham Shum, Simon and Echeverria, Vanessa and Martinez-Maldonado, Roberto},\n  title = {The Multimodal Matrix as a Quantitative Ethnography Methodology},\n  year = {2019},\n  journal = {Communications in Computer and Information Science},\n  volume = {1112},\n  pages = {26-40},\n  doi = {10.1007/978-3-030-33232-7_3},\n  publisher = {Springer}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado2019859",
+    "title": "Making the Design of CSCL Analytics Interfaces a Co-design Process: The Case of Multimodal Teamwork in Healthcare",
+    "authorsHtml": "Martinez-Maldonado, R., <strong>Echeverria, V.</strong>, Elliott, D., Axisa, C., Power, T., &amp; Buckingham Shum, S.",
+    "venue": "Computer-Supported Collaborative Learning Conference, CSCL, 2, 859–860 · 2019",
+    "year": "2019",
+    "type": "workshop",
+    "topics": [
+      "codesign",
+      "healthcare",
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "workshop",
+        "text": "Poster"
+      },
+      {
+        "style": "conference",
+        "text": "CSCL"
+      }
+    ],
+    "bibtex": "@CONFERENCE{Martinez-Maldonado2019859,\n  author = {Martinez-Maldonado, Roberto and Echeverria, Vanessa and Elliott, Doug and Axisa, Carmen and Power, Tamara and Buckingham Shum, Simon},\n  title = {Making the design of CSCL analytics interfaces a co-design process: The case of multimodal teamwork in healthcare},\n  year = {2019},\n  journal = {Computer-Supported Collaborative Learning Conference, CSCL},\n  volume = {2},\n  pages = {859-860},\n  publisher = {International Society of the Learning Sciences (ISLS)}\n}"
+  },
+  {
+    "citekey": null,
+    "title": "Exploratory versus Explanatory Visual Learning Analytics: Driving Teachers' Attention through Educational Data Storytelling",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Martinez-Maldonado, R., Buckingham Shum, S., Granda, R., Chiluiza, K., Conati, C.",
+    "venue": "Journal of Learning Analytics, JLA, 5(2): 72–97 · 2018",
+    "year": "2018",
+    "type": "journal",
+    "topics": [
+      "datastory",
+      "dashboard"
+    ],
+    "badges": [
+      {
+        "style": "journal",
+        "text": "Journal"
+      }
+    ]
+  },
+  {
+    "citekey": "Echeverria201874",
+    "title": "Where is the Nurse? Towards Automatically Visualising Meaningful Team Movement in Healthcare Education",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Martinez-Maldonado, R., Power, T., Hayes, C., &amp; Buckingham Shum, S.",
+    "venue": "Artificial Intelligence in Education. AIED, 74–78 · 2018",
+    "year": "2018",
+    "type": "conference",
+    "topics": [
+      "healthcare",
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "AIED"
+      }
+    ],
+    "doi": "10.1007/978-3-319-93846-2_14",
+    "bibtex": "@conference{Echeverria201874,\n  author = {Echeverria, Vanessa and Martinez-Maldonado, Roberto and Power, Tamara and Hayes, Carolyn and Buckingham Shum, Simon},\n  title = {Where is the Nurse? Towards automatically visualising meaningful team movement in healthcare education},\n  year = {2018},\n  booktitle = {Artificial Intelligence in Education. AIED 2018. Lecture Notes in Computer Science},\n  volume = {10948 LNAI},\n  pages = {74-78},\n  doi = {10.1007/978-3-319-93846-2_14},\n  publisher = {Springer Verlag}\n}"
+  },
+  {
+    "citekey": "Echeverria2018131",
+    "title": "Driving Data Storytelling from Learning Design",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Martinez-Maldonado, R., Granda, R., Chiluiza, K., Conati, C., &amp; Buckingham Shum, S.",
+    "venue": "8th International Conference on Learning Analytics and Knowledge, LAK 2018, 131–140",
+    "year": "2018",
+    "type": "conference",
+    "topics": [
+      "datastory"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "LAK"
+      }
+    ],
+    "doi": "10.1145/3170358.3170380",
+    "bibtex": "@CONFERENCE{Echeverria2018131,\n  author = {Echeverria, Vanessa and Martinez-Maldonado, Roberto and Granda, Roger and Chiluiza, Katherine and Conati, Cristina and Buckingham Shum, Simon},\n  title = {Driving data storytelling from learning design},\n  year = {2018},\n  journal = {ACM International Conference Proceeding Series},\n  pages = {131-140},\n  doi = {10.1145/3170358.3170380},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado2018",
+    "title": "2nd Crossmmla: Multimodal learning analytics across physical and digital spaces",
+    "authorsHtml": "Martinez-Maldonado, R., <strong>Echeverria, V.</strong>, Prieto, L. P., Rodriguez-Triana, M. J., Spikol, D., Curukova, M., Mavrikis, M., Ochoa, X., &amp; Worsley, M.",
+    "venue": "CEUR Workshop Proceedings, 2163 · 2018",
+    "year": "2018",
+    "type": "workshop",
+    "topics": [],
+    "badges": [
+      {
+        "style": "workshop",
+        "text": "Workshop organisation"
+      }
+    ],
+    "bibtex": "@CONFERENCE{Martinez-Maldonado2018,\n  author = {Martinez-Maldonado, Roberto and Echeverria, Vanessa and Prieto, Luis P. and Rodriguez-Triana, Maria Jesus and Spikol, Daniel and Curukova, Mutlu and Mavrikis, Manolis and Ochoa, Xavier and Worsley, Marcelo},\n  title = {2nd Crossmmla: Multimodal learning analytics across physical and digital spaces},\n  year = {2018},\n  journal = {CEUR Workshop Proceedings},\n  volume = {2163},\n  publisher = {CEUR-WS}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado2018375",
+    "title": "Physical learning analytics: A multimodal perspective",
+    "authorsHtml": "Martinez-Maldonado, R., <strong>Echeverria, V.</strong>, Santos, O. C., Dos Santos, A. D. P., &amp; Yacef, K.",
+    "venue": "8th International Conference on Learning Analytics and Knowledge, 375–379 · 2018",
+    "year": "2018",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1145/3170358.3170379",
+    "bibtex": "@CONFERENCE{Martinez-Maldonado2018375,\n  author = {Martinez-Maldonado, Roberto and Echeverria, Vanessa and Santos, Olga C. and Dos Santos, Augusto Dias Pereira and Yacef, Kalina},\n  booktitle = {Proceedings of the 8th International Conference on Learning Analytics and Knowledge},,\n  year = {2018},\n  journal = {ACM International Conference Proceeding Series},\n  pages = {375 - 379},\n  doi = {10.1145/3170358.3170379},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Falcones2016",
+    "title": "Enhancing quality of argumentation in a co-located collaborative environment through a tabletop system",
+    "authorsHtml": "Falcones, G., Wong-Villacres, M., <strong>Barzola, V. E.</strong>, &amp; Chiluiza, K.",
+    "venue": "2016 IEEE Ecuador Technical Chapters Meeting, ETCM 2016 · 2016",
+    "year": "2016",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1109/ETCM.2016.7750832",
+    "bibtex": "@CONFERENCE{Falcones2016,\n  author = {Falcones, Gabriel and Wong-Villacres, Marisol and Barzola, Vanessa Echeverria and Chiluiza, Katherine},\n  title = {Enhancing quality of argumentation in a co-located collaborative environment through a tabletop system},\n  year = {2016},\n  journal = {2016 IEEE Ecuador Technical Chapters Meeting, ETCM 2016},\n  doi = {10.1109/ETCM.2016.7750832},\n  publisher = {Institute of Electrical and Electronics Engineers Inc.}\n}"
+  },
+  {
+    "citekey": "Luzardo2016271",
+    "title": "Multi-tabletop system to support collaborative design assessment",
+    "authorsHtml": "Luzardo, G., <strong>Echeverría, V.</strong>, Quiñonez, Y., &amp; Granda, R.",
+    "venue": "Advances in Intelligent Systems and Computing, 405, 271–281 · 2016",
+    "year": "2016",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1007/978-3-319-26285-7_23",
+    "bibtex": "@ARTICLE{Luzardo2016271,\n  author = {Luzardo, Gonzalo and Echeverría, Vanessa and Quiñonez, Yadira and Granda, Roger},\n  title = {Multi-tabletop system to support collaborative design assessment},\n  year = {2016},\n  journal = {Advances in Intelligent Systems and Computing},\n  volume = {405},\n  pages = {271 - 281},\n  doi = {10.1007/978-3-319-26285-7_23},\n  publisher = {Springer Verlag}\n}"
+  },
+  {
+    "citekey": "Wong-Villacres2016241",
+    "title": "Portable tabletops: A low-cost pen-and-touch approach",
+    "authorsHtml": "Wong-Villacres, M., <strong>Barzola, V. E.</strong>, Granda, R., &amp; Garcia, K. C.",
+    "venue": "Human-Computer Interaction. Interaction Platforms and Techniques. HCI, 9732, 241–252 · 2016",
+    "year": "older",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1007/978-3-319-39516-6_23",
+    "bibtex": "@ARTICLE{Wong-Villacres2016241,\n  author = {Wong-Villacres, Marisol and Barzola, Vanessa Echeverría and Granda, Roger and Garcia, Katherine Chiluiza},\n  title = {Portable tabletops: A low-cost pen-and-touch approach},\n  year = {2016},\n  journal = {Human-Computer Interaction. Interaction Platforms and Techniques. HCI 2016. Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)},\n  volume = {9732},\n  pages = {241 - 252},\n  doi = {10.1007/978-3-319-39516-6_23},\n  publisher = {Springer Verlag}\n}"
+  },
+  {
+    "citekey": "Dominguez2015567",
+    "title": "Multimodal selfies: Designing a multimodal recording device for students in traditional classrooms",
+    "authorsHtml": "Domínguez, F., Chiluiza, K., <strong>Echeverría, V.</strong>, &amp; Ochoa, X.",
+    "venue": "Proceedings of the 2015 ACM International Conference on Multimodal Interaction, 567–574 · 2015",
+    "year": "2015",
+    "type": "conference",
+    "topics": [
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1145/2818346.2830606",
+    "bibtex": "@CONFERENCE{Domínguez2015567,\n  author = {Domínguez, Federico and Chiluiza, Katherine and Echeverría, Vanessa and Ochoa, Xavier},\n  title = {Multimodal selfies: Designing a multimodal recording device for students in traditional classrooms},\n  year = {2015},\n  journal = {ICMI 2015 - Proceedings of the 2015 ACM International Conference on Multimodal Interaction},\n  pages = {567 - 574},\n  doi = {10.1145/2818346.2830606},\n  publisher = {Association for Computing Machinery, Inc}\n}"
+  },
+  {
+    "citekey": "Echeverria2015264",
+    "title": "Mirroring Teachers' Assessment of Novice Students' Presentations through an Intelligent Tutor System",
+    "authorsHtml": "<strong>Echeverría, V.</strong>, Guamán, B., &amp; Chiluiza, K.",
+    "venue": "Proceedings - 2015 Asia-Pacific Conference on Computer-Aided System Engineering, APCASE 2015, 264–269 · 2015",
+    "year": "older",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1109/APCASE.2015.53",
+    "bibtex": "@CONFERENCE{Echeverría2015264,\n  author = {Echeverría, Vanessa and Guamán, Bruno and Chiluiza, Katherine},\n  title = {Mirroring Teachers' Assessment of Novice Students' Presentations through an Intelligent Tutor System},\n  year = {2015},\n  journal = {Proceedings - 2015 Asia-Pacific Conference on Computer-Aided System Engineering, APCASE 2015},\n  pages = {264 - 269},\n  doi = {10.1109/APCASE.2015.53},\n  publisher = {Institute of Electrical and Electronics Engineers Inc.}\n}"
+  },
+  {
+    "citekey": "Granda2015270",
+    "title": "Supporting the Assessment of Collaborative Design Activities in Multi-tabletop Classrooms",
+    "authorsHtml": "Granda, R. X., <strong>Echeverría, V.</strong>, Chiluiza, K., &amp; Wong-Villacrés, M.",
+    "venue": "Proceedings - 2015 Asia-Pacific Conference on Computer-Aided System Engineering, APCASE 2015, 270–275 · 2015",
+    "year": "2015",
+    "type": "conference",
+    "topics": [],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1109/APCASE.2015.54",
+    "bibtex": "@CONFERENCE{Granda2015270,\n  author = {Granda, Roger X. and Echeverría, Vanessa and Chiluiza, Katherine and Wong-Villacrés, Marisol},\n  title = {Supporting the Assessment of Collaborative Design Activities in Multi-tabletop Classrooms},\n  year = {2015},\n  journal = {Proceedings - 2015 Asia-Pacific Conference on Computer-Aided System Engineering, APCASE 2015},\n  pages = {270 - 275},\n  doi = {10.1109/APCASE.2015.54},\n  publisher = {Institute of Electrical and Electronics Engineers Inc.}\n}"
+  },
+  {
+    "citekey": "Wong-Villacres2015325",
+    "title": "A tabletop system to promote argumentation in computer science students",
+    "authorsHtml": "Wong-Villacres, M., Chiluiza, K., Ortiz, M., &amp; <strong>Echeverria, V.</strong>",
+    "venue": "Proceedings of the 2015 ACM International Conference on Interactive Tabletops and Surfaces, ITS 2015, 325–330 · 2015",
+    "year": "older",
+    "type": "conference",
+    "topics": [
+      "computer education"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1145/2817721.2823501",
+    "bibtex": "@CONFERENCE{Wong-Villacres2015325,\n  author = {Wong-Villacres, Marisol and Chiluiza, Katherine and Ortiz, Margarita and Echeverria, Vanessa},\n  title = {A tabletop system to promote argumentation in computer science students},\n  year = {2015},\n  journal = {Proceedings of the 2015 ACM International Conference on Interactive Tabletops and Surfaces, ITS 2015},\n  pages = {325 - 330},\n  doi = {10.1145/2817721.2823501},\n  publisher = {Association for Computing Machinery, Inc}\n}"
+  },
+  {
+    "citekey": "Echeverria201453",
+    "title": "Presentation skills estimation based on video and kinect data analysis",
+    "authorsHtml": "<strong>Echeverría, V.</strong>, Avendaño, A., Chiluiza, K., Vásquez, A., &amp; Ochoa, X.",
+    "venue": "MLA 2014 - Proceedings of the 2014 ACM Multimodal Learning Analytics Workshop and Grand Challenge, Co-located with ICMI 2014, 53–60 · 2014",
+    "year": "older",
+    "type": "workshop",
+    "topics": [
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Workshop paper"
+      }
+    ],
+    "doi": "10.1145/2666633.2666641",
+    "bibtex": "@CONFERENCE{Echeverría201453,\n  author = {Echeverría, Vanessa and Avendaño, Allan and Chiluiza, Katherine and Vásquez, Aníbal and Ochoa, Xavier},\n  title = {Presentation skills estimation based on video and kinect data analysis},\n  year = {2014},\n  journal = {MLA 2014 - Proceedings of the 2014 ACM Multimodal Learning Analytics Workshop and Grand Challenge, Co-located with ICMI 2014},\n  pages = {53 - 60},\n  doi = {10.1145/2666633.2666641},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Echeverria2017156",
+    "title": "DBCollab: Automated Feedback for Face-to-Face Group Database Design",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Martinez-Maldonado, R., Chiluiza, K., &amp; Buckingham Shum, S.",
+    "venue": "Proceedings of the 25th International Conference on Computers in Education, ICCE 2017, 156–165 · 2017",
+    "year": "older",
+    "type": "conference",
+    "topics": [
+      "codesign",
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "ICCE"
+      }
+    ],
+    "bibtex": "@CONFERENCE{Echeverria2017156,\n  author = {Echeverria, Vanessa and Martinez-Maldonado, Roberto and Chiluiza, Katherine and Buckingham Shum, Simon},\n  title = {DBCollab: Automated feedback for face-to-face group database design},\n  year = {2017},\n  journal = {Proceedings of the 25th International Conference on Computers in Education, ICCE 2017 - Main Conference Proceedings},\n  pages = {156-165},\n  publisher = {Asia-Pacific Society for Computers in Education}\n}"
+  },
+  {
+    "citekey": "Echeverria2017347",
+    "title": "Towards Data Storytelling to Support Teaching and Learning",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Martinez-Maldonado, R., &amp; Buckingham Shum, S.",
+    "venue": "ACM International Conference Proceeding Series, 347–351 · 2017",
+    "year": "older",
+    "type": "conference",
+    "topics": [
+      "datastory",
+      "dashboard"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      },
+      {
+        "style": "conference",
+        "text": "OzCHI"
+      }
+    ],
+    "doi": "10.1145/3152771.3156134",
+    "bibtex": "@CONFERENCE{Echeverria2017347,\n  author = {Echeverria, Vanessa and Martinez-Maldonado, Roberto and Buckingham Shum, Simon},\n  title = {Towards data storytelling to support teaching and learning},\n  year = {2017},\n  journal = {ACM International Conference Proceeding Series},\n  pages = {347-351},\n  doi = {10.1145/3152771.3156134},\n  publisher = {Association for Computing Machinery}\n}"
+  },
+  {
+    "citekey": "Echeverria2017273",
+    "title": "Exploring On-time Automated Assessment in a Co-located Collaborative System",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Falcones, G., Castells, J., Martinez-Maldonado, R., &amp; Chiluiza, K.",
+    "venue": "2017 4th International Conference on eDemocracy & eGovernment, ICEDEG 2017, 273–276 · 2017",
+    "year": "older",
+    "type": "conference",
+    "topics": [
+      "codesign"
+    ],
+    "badges": [
+      {
+        "style": "conference",
+        "text": "Conference"
+      }
+    ],
+    "doi": "10.1109/ICEDEG.2017.7962549",
+    "bibtex": "@CONFERENCE{Echeverria2017273,\n  author = {Echeverria, Vanessa and Falcones, Gabriel and Castells, Jaime and Martinez-Maldonado, Roberto and Chiluiza, Katherine},\n  title = {Exploring on-time automated assessment in a co-located collaborative system},\n  year = {2017},\n  journal = {2017 4th International Conference on eDemocracy and eGovernment, ICEDEG 2017},\n  pages = {273-276},\n  doi = {10.1109/ICEDEG.2017.7962549},\n  publisher = {Institute of Electrical and Electronics Engineers Inc.}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado201739",
+    "title": "How to Capitalise on Mobility, Proximity and Motion Analytics to Support Formal and Informal Education?",
+    "authorsHtml": "Martinez-Maldonado, R., <strong>Echeverria, V.</strong>, Yacef, K., Dos Santos, A. D. P., &amp; Pechenizkiy, M.",
+    "venue": "CEUR Workshop Proceedings, 1828, 39–46 · 2017",
+    "year": "older",
+    "type": "workshop",
+    "topics": [
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "workshop",
+        "text": "Workshop paper"
+      }
+    ],
+    "bibtex": "@CONFERENCE{Martinez-Maldonado201739,\n  author = {Martinez-Maldonado, Roberto and Echeverria, Vanessa and Yacef, Kalina and Dos Santos, Augusto Dias Pereira and Pechenizkiy, Mykola},\n  title = {How to capitalise on mobility, proximity and motion analytics to support formal and informal education?},\n  year = {2017},\n  journal = {CEUR Workshop Proceedings},\n  volume = {1828},\n  pages = {39-46},\n  publisher = {CEUR-WS}\n}"
+  },
+  {
+    "citekey": "Echeverria201794",
+    "title": "Multimodal Collaborative Workgroup Dataset and Challenges",
+    "authorsHtml": "<strong>Echeverria, V.</strong>, Falcones, G., Castells, J., Granda, R., &amp; Chiluiza, K.",
+    "venue": "CEUR Workshop Proceedings, 1828, 94–98 · 2017",
+    "year": "older",
+    "type": "workshop",
+    "topics": [
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "workshop",
+        "text": "Workshop paper"
+      }
+    ],
+    "bibtex": "@CONFERENCE{Echeverria201794,\n  author = {Echeverria, Vanessa and Falcones, Gabriel and Castells, Jaime and Granda, Roger and Chiluiza, Katherine},\n  title = {Multimodal collaborative workgroup dataset and challenges},\n  year = {2017},\n  journal = {CEUR Workshop Proceedings},\n  volume = {1828},\n  pages = {94-98},\n  publisher = {CEUR-WS}\n}"
+  },
+  {
+    "citekey": "Martinez-Maldonado201789",
+    "title": "Towards Proximity Tracking and Sensemaking for Supporting Teamwork and Learning",
+    "authorsHtml": "Martinez-Maldonado, R., Yacef, K., Dos Santos, A. D. P., Buckingham Shum, S., <strong>Echeverria, V.</strong>, Santos, O. C., &amp; Pechenizkiy, M.",
+    "venue": "Proceedings — IEEE 17th International Conference on Advanced Learning Technologies, ICALT 2017, 89–91 · 2017",
+    "year": "older",
+    "type": "workshop",
+    "topics": [
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "workshop",
+        "text": "Poster"
+      },
+      {
+        "style": "conference",
+        "text": "ICALT"
+      }
+    ],
+    "doi": "10.1109/ICALT.2017.79",
+    "bibtex": "@CONFERENCE{Martinez-Maldonado201789,\n  author = {Martinez-Maldonado, Roberto and Yacef, Kalina and Santos, Augusto Dias Pereira Dos and Buckingham Shum, Simon and Echeverria, Vanessa and Santos, Olga C. and Pechenizkiy, Mykola},\n  title = {Towards Proximity Tracking and Sensemaking for Supporting Teamwork and Learning},\n  year = {2017},\n  journal = {Proceedings - IEEE 17th International Conference on Advanced Learning Technologies, ICALT 2017},\n  pages = {89-91},\n  doi = {10.1109/ICALT.2017.79},\n  publisher = {Institute of Electrical and Electronics Engineers Inc.}\n}"
+  },
+  {
+    "citekey": "Echeverria201652",
+    "title": "Towards a Distributed Framework to Analyze Multimodal Data",
+    "authorsHtml": "<strong>Echeverría, V.</strong>, Domínguez, F., &amp; Chiluiza, K.",
+    "venue": "CEUR Workshop Proceedings, 1601, 52–57 · 2016",
+    "year": "older",
+    "type": "workshop",
+    "topics": [
+      "multimodal"
+    ],
+    "badges": [
+      {
+        "style": "workshop",
+        "text": "Workshop paper"
+      }
+    ],
+    "bibtex": "@CONFERENCE{Echeverria201652,\n  author = {Echeverria, Vanessa and Dominguez, Federico and Chiluiza, Katherine},\n  title = {Towards a distributed framework to analyze multimodal data},\n  year = {2016},\n  journal = {CEUR Workshop Proceedings},\n  volume = {1601},\n  pages = {52-57},\n  publisher = {CEUR-WS}\n}"
+  }
+]

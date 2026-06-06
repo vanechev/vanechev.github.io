@@ -14,7 +14,7 @@
   --mag:      #ff006e;
   --mag-dim:  rgba(255,0,110,0.10);
   --mag-mid:  rgba(255,0,110,0.22);
-  --bg:       #f7f7f8;
+  --bg:       #f7f7f8a3;
   --surface:  #ffffff;
   --border:   #e4e4e8;
   --border2:  #d0d0d8;
@@ -266,6 +266,60 @@ img { max-width: 100%; display: block; }
 .sidebar-nav a:hover { color: var(--text); background: none; }
 .sidebar-nav a.active { color: var(--text); font-weight: 500; background: none; }
 
+/* Multi-select topic filter */
+.topic-clear {
+  float: right;
+  font-size: 0.74rem;
+  font-weight: 500;
+  color: var(--cyan);
+  cursor: pointer;
+  letter-spacing: 0.02em;
+}
+.topic-clear:hover { color: var(--mag); }
+.topic-nav-multi a.topic-opt {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  border-radius: 6px;
+  padding: 5px 8px;
+  margin-left: -8px;
+}
+.topic-nav-multi a.topic-opt:hover { background: var(--surface); color: var(--text); }
+.topic-check {
+  flex-shrink: 0;
+  width: 14px;
+  height: 14px;
+  border-radius: 4px;
+  border: 1.5px solid var(--border2);
+  background: var(--bg);
+  position: relative;
+  transition: background 0.15s, border-color 0.15s;
+}
+.topic-check::after {
+  content: "";
+  position: absolute;
+  display: none;
+  left: 4px;
+  top: 1px;
+  width: 4px;
+  height: 8px;
+  border: solid var(--bg);
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+.topic-nav-multi a.topic-opt.checked .topic-check {
+  background: var(--cyan);
+  border-color: var(--cyan);
+}
+.topic-nav-multi a.topic-opt.checked .topic-check::after { display: block; }
+.topic-nav-multi a.topic-opt.checked { color: var(--text); font-weight: 500; }
+.topic-nav-multi a.topic-opt.active:not(.checked) { color: var(--text); font-weight: 500; }
+.topic-nav-multi a.topic-opt.active:not(.checked) .topic-check {
+  background: var(--mag);
+  border-color: var(--mag);
+}
+.topic-nav-multi a.topic-opt.active:not(.checked) .topic-check::after { display: block; }
+
 /* Page nav links */
 .sidebar-pages { list-style: none; display: flex; flex-direction: column; gap: 2px; }
 .sidebar-pages a {
@@ -465,7 +519,36 @@ img { max-width: 100%; display: block; }
   color: var(--cyan);
   background: var(--cyan-dim);
 }
-
+.pub-link.bibtex-toggle {
+  cursor: pointer;
+  background: none;
+  font: inherit;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.pub-link.bibtex-toggle:hover {
+  border-color: var(--mag);
+  color: var(--mag);
+  background: var(--mag-dim);
+}
+.bib-entry {
+  display: none;
+  margin-top: 12px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.74rem;
+  line-height: 1.6;
+  color: var(--muted);
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-x: auto;
+}
+.bib-entry.open { display: block; }
 /* ── Type badge ─────────────────────────────────────────── */
 .badge {
   display: inline-block;
@@ -544,10 +627,8 @@ img { max-width: 100%; display: block; }
 /* ── Timeline ───────────────────────────────────────────── */
 .timeline-item {
   display: grid;
-  grid-template-columns: 140px 1fr;
-  gap: 24px;
-  padding: 20px 0;
-  border-bottom: 1px solid var(--border);
+  gap: 8px;
+  padding: 10px 0;
 }
 .timeline-item:last-child { border-bottom: none; }
 .tl-dates {
@@ -568,7 +649,6 @@ img { max-width: 100%; display: block; }
 .tl-org {
   font-size: 0.83rem;
   color: var(--muted);
-  margin-bottom: 8px;
 }
 .tl-desc { font-size: 0.85rem; color: var(--muted); }
 
@@ -609,9 +689,7 @@ img { max-width: 100%; display: block; }
 .news-item {
   display: grid;
   grid-template-columns: 60px 1fr;
-  gap: 10px;
-  padding: 10px 0;
-  border-bottom: 1px solid var(--border);
+  padding: 5px 0;
   align-items: baseline;
 }
 .news-item:last-child { border-bottom: none; }
@@ -639,6 +717,33 @@ img { max-width: 100%; display: block; }
   font-size: 0.76rem; font-weight: 600;
   color: var(--mag); letter-spacing: 0.04em;
   flex-shrink: 0;
+}
+
+/* ── Compact service / membership lists ─────────────────── */
+.service-group { margin-bottom: 22px; }
+.service-group:last-child { margin-bottom: 0; }
+.service-group-title {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--text);
+  margin-bottom: 6px;
+}
+.service-list { padding-left: 18px; }
+.service-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  padding: 9px 0;
+}
+.service-row:last-child { border-bottom: none; }
+.service-name { font-size: 0.86rem; color: var(--text); }
+.service-meta {
+  font-size: 0.76rem;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+  flex-shrink: 0;
+  white-space: nowrap;
 }
 
 /* ── Projects grid ──────────────────────────────────────── */
