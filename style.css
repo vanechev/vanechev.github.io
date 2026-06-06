@@ -799,6 +799,124 @@ img { max-width: 100%; display: block; }
 .grant-funder { font-size: 0.8rem; color: var(--muted); }
 .grant-amount { font-size: 0.8rem; font-weight: 600; color: var(--cyan); margin-top: 4px; }
 
+/* ── Project feature cards (projects.html landing grid) ─── */
+.project-feature-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 22px;
+}
+.project-feature-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+}
+.project-feature-card:hover { color: inherit; }
+.project-feature-card:hover {
+  border-color: var(--border2);
+  box-shadow: 0 8px 28px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
+}
+.project-figure {
+  position: relative;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--cyan-dim), var(--mag-dim));
+  border-bottom: 1px solid var(--border);
+  overflow: hidden;
+}
+.project-figure::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: conic-gradient(from 200deg at 80% 20%, var(--cyan-mid), transparent 40%);
+  opacity: 0.5;
+}
+.project-figure-glyph {
+  position: relative;
+  font-size: 2.4rem;
+  z-index: 1;
+  filter: drop-shadow(0 2px 10px rgba(0,0,0,0.08));
+}
+.project-feature-body {
+  padding: 22px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.project-feature-body h3 {
+  font-size: 1.12rem;
+  font-weight: 500;
+  color: var(--text);
+  margin-bottom: 8px;
+}
+.project-feature-body p {
+  font-size: 0.86rem;
+  color: var(--muted);
+  line-height: 1.65;
+  margin-bottom: 16px;
+}
+.project-feature-link {
+  margin-top: auto;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--cyan);
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  transition: gap 0.18s, color 0.18s;
+}
+.project-feature-link:hover { color: var(--mag); gap: 9px; }
+
+/* ── Project detail pages ───────────────────────────────── */
+.project-figure-large {
+  position: relative;
+  height: 240px;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin-bottom: 14px;
+}
+
+.project-figure-large img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;   /* fills the box, cropping overflow — use 'contain' to show the whole image with letterboxing */
+  display: block;
+}
+
+.project-figure-large::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: conic-gradient(from 200deg at 80% 20%, var(--cyan-mid), transparent 45%);
+  opacity: 0.5;
+}
+.project-figure-large .project-figure-glyph {
+  font-size: 4rem;
+}
+.project-figure-caption {
+  font-size: 0.8rem;
+  color: var(--muted);
+  line-height: 1.6;
+  margin-bottom: 32px;
+  padding-left: 14px;
+  border-left: 2px solid var(--border2);
+}
+.project-figure-caption strong { color: var(--text); font-weight: 600; }
+
+.key-papers-list { display: flex; flex-direction: column; gap: 12px; }
+
 /* ── Footer ─────────────────────────────────────────────── */
 footer {
   text-align: center;

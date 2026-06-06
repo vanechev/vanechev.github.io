@@ -348,7 +348,9 @@
     "venue": "15th International Conference on Learning Analytics and Knowledge, LAK 2025, 950–956 · 2025",
     "year": "2025",
     "type": "conference",
-    "topics": [],
+    "topics": [
+      "codesign"
+    ],
     "badges": [
       {
         "style": "conference",
@@ -356,7 +358,7 @@
       },
       {
         "style": "conference",
-        "text": "ECTEL"
+        "text": "LAK"
       }
     ],
     "doi": "10.1145/3706468.3706553",
@@ -376,6 +378,10 @@
       {
         "style": "conference",
         "text": "Conference"
+      },
+       {
+        "style": "conference",
+        "text": "LAK"
       }
     ],
     "doi": "10.1145/3706468.3706476",
@@ -1631,7 +1637,7 @@
     ],
     "badges": [
       {
-        "style": "conference",
+        "style": "workshop",
         "text": "Workshop paper"
       }
     ],
