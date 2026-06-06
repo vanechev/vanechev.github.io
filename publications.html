@@ -42,6 +42,20 @@
       </div>
     </div>
 
+    <!-- Filter by Topic -->
+    <div class="sidebar-nav-wrap">Filter by Topic
+      <ul class="sidebar-nav" id="topic-nav-list">
+        <li><a href="#" class="active" data-topic="all">All topics</a></li>
+        <li><a href="#" data-topic="multimodal">Multimodal analytics</a></li>
+        <li><a href="#" data-topic="healthcare">Healthcare simulation</a></li>
+        <li><a href="#" data-topic="datastory">Data storytelling</a></li>
+        <li><a href="#" data-topic="codesign">Co-design</a></li>
+        <li><a href="#" data-topic="human-ai">Human–AI collaboration</a></li>
+        <li><a href="#" data-topic="ethics">Ethics &amp; fairness</a></li>
+        <li><a href="#" data-topic="dashboard">Dashboards</a></li>
+      </ul>
+    </div>
+
   </aside>
 
   <main class="content">
@@ -78,20 +92,6 @@
           <a href="#" class="pill-filter" data-year="2022">2022</a>
           <a href="#" class="pill-filter" data-year="2021">2021</a>
           <a href="#" class="pill-filter" data-year="older">2020 &amp; earlier</a>
-        </div>
-      </div>
-
-      <div class="pub-filter-group" style="margin-bottom:32px;">
-        <div class="pub-filter-label">Topic</div>
-        <div class="pill-filter-bar" id="topic-nav">
-          <a href="#" class="pill-filter active" data-topic="all">All</a>
-          <a href="#" class="pill-filter" data-topic="multimodal">Multimodal analytics</a>
-          <a href="#" class="pill-filter" data-topic="healthcare">Healthcare simulation</a>
-          <a href="#" class="pill-filter" data-topic="datastory">Data storytelling</a>
-          <a href="#" class="pill-filter" data-topic="codesign">Co-design</a>
-          <a href="#" class="pill-filter" data-topic="human-ai">Human–AI collaboration</a>
-          <a href="#" class="pill-filter" data-topic="ethics">Ethics &amp; fairness</a>
-          <a href="#" class="pill-filter" data-topic="dashboard">Dashboards</a>
         </div>
       </div>
 
@@ -441,7 +441,7 @@
 
   wireNav('type-nav',  'type',  v => activeType  = v);
   wireNav('year-nav',  'year',  v => activeYear  = v);
-  wireNav('topic-nav', 'topic', v => activeTopic = v);
+  wireNav('topic-nav-list', 'topic', v => activeTopic = v);
 </script>
 </body>
 </html>
