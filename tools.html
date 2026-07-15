@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tools — Vanessa Echeverria</title>
+  <meta name="description" content="Research tools and software developed by Dr. Vanessa Echeverria."/>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg"/>
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png"/>
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png"/>
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png"/>
+</head>
+<body>
+
+<nav class="topnav">
+  <a href="index.html" class="topnav-brand"><span>Vanessa</span> Echeverria</a>
+  <button class="hamburger" id="hamburger"><span></span><span></span><span></span></button>
+  <ul class="topnav-links" id="topnav-links">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="publications.html">Publications</a></li>
+    <li><a href="projects.html">Projects</a></li>
+    <li><a href="cv.html">CV</a></li>
+    <li><a href="teaching.html">Teaching</a></li>
+    <li><a href="tools.html" class="active">Tools</a></li>
+  </ul>
+</nav>
+
+<div class="page">
+  <aside class="sidebar">
+    <div class="sidebar-card">
+      <div class="photo-wrap">
+        <div class="photo-ring"></div>
+        <img src="assets/headshot-bg.png" alt="Vanessa Echeverria"
+             onerror="this.style.display='none'; document.getElementById('ph').style.display='flex'"/>
+        <div class="photo-placeholder" id="ph" style="display:none">VE</div>
+      </div>
+      <div class="sidebar-name">Vanessa Echeverria</div>
+      <div class="sidebar-title">Lecturer · RMIT University</div>
+      <div class="sidebar-social">
+        <a href="https://scholar.google.com/citations?user=X3YWKc8AAAAJ&hl=en" target="_blank">Scholar</a>
+        <a href="https://orcid.org/0000-0002-2022-9588" target="_blank">ORCID</a>
+        <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
+        <a href="mailto:vanessa.echeverria@rmit.edu.au">Email</a>
+      </div>
+    </div>
+  </aside>
+
+  <main class="content">
+
+    <div class="section reveal">
+      <div class="section-header">
+        <h2 class="section-title">Tools</h2>
+      </div>
+      <div class="bio-block">
+        <p>Research tools and software I've developed to support data collection, annotation, and analysis in learning analytics and healthcare simulation research.</p>
+      </div>
+    </div>
+
+    <div class="section reveal">
+      <div class="feat-pub">
+        <div class="feat-pub-meta">
+          <span class="badge badge-conference">Web App</span>
+        </div>
+        <div class="feat-pub-title">BLS Video Annotation Tool</div>
+        <div class="feat-pub-venue">A browser-based tool for expert annotation of Basic Life Support (BLS) simulation videos against a predefined action set and OSCE marking rubric. Built for AI-enhanced feedback research in clinical education. Runs entirely in the browser — video files and annotations are never uploaded.</div>
+        <div class="feat-pub-links">
+          <a class="pub-link" href="https://vanechev.github.io/bls-annotation-tool/" target="_blank">Open tool →</a>
+          <a class="pub-link" href="https://github.com/vanechev/bls-annotation-tool" target="_blank">Source →</a>
+        </div>
+      </div>
+    </div>
+
+  </main>
+</div>
+
+<footer>
+  <p>© Vanessa Echeverria · Lecturer, <a href="https://www.rmit.edu.au" target="_blank">RMIT University</a> · <a href="mailto:vanessa.echeverria@rmit.edu.au">vanessa.echeverria@rmit.edu.au</a></p>
+</footer>
+
+<script>
+  document.getElementById('hamburger').addEventListener('click', () =>
+    document.getElementById('topnav-links').classList.toggle('open'));
+  document.querySelectorAll('.reveal').forEach(el => {
+    new IntersectionObserver(([e]) => { if(e.isIntersecting) el.classList.add('in'); }, {threshold:0.05}).observe(el);
+  });
+</script>
+</body>
+</html>
